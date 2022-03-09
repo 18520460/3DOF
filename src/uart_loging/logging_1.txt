@@ -1,0 +1,6004 @@
+
+ROLL = 3.65    PITCH = -5.34    
+
+ROLL = 3.65    PITCH = -5.34    
+
+ROLL = 3.65    PITCH = -5.34    
+
+ROLL = 3.65    PITCH = -5.34    
+
+ROLL = 3.65    PITCH = -5.34    
+
+ROLL = 3.67    PITCH = -5.33    
+
+ROLL = 3.72    PITCH = -5.36    
+
+ROLL = 3.75    PITCH = -5.36    
+
+ROLL = 3.79    PITCH = -5.35    
+
+ROLL = 3.81    PITCH = -5.35    
+
+ROLL = 3.89    PITCH = -5.41    
+
+ROLL = 3.92    PITCH = -5.41    
+
+ROLL = 3.98    PITCH = -5.39    
+
+ROLL = 4.00    PITCH = -5.39    
+
+ROLL = 4.08    PITCH = -5.45    
+
+ROLL = 4.12    PITCH = -5.45    
+
+ROLL = 4.18    PITCH = -5.45    
+
+ROLL = 4.19    PITCH = -5.46    
+
+ROLL = 4.28    PITCH = -5.56    
+
+ROLL = 4.31    PITCH = -5.57    
+
+ROLL = 4.35    PITCH = -5.52    
+
+ROLL = 4.37    PITCH = -5.52    
+
+ROLL = 4.43    PITCH = -5.55    
+
+ROLL = 4.46    PITCH = -5.54    
+
+ROLL = 4.48    PITCH = -5.52    
+
+ROLL = 4.48    PITCH = -5.48    
+
+ROLL = 4.49    PITCH = -5.50    
+
+ROLL = 4.54    PITCH = -5.60    
+
+ROLL = 4.53    PITCH = -5.57    
+
+ROLL = 4.52    PITCH = -5.49    
+
+ROLL = 4.53    PITCH = -5.50    
+
+ROLL = 4.56    PITCH = -5.53    
+
+ROLL = 4.55    PITCH = -5.49    
+
+ROLL = 4.54    PITCH = -5.42    
+
+ROLL = 4.54    PITCH = -5.43    
+
+ROLL = 4.55    PITCH = -5.43    
+
+ROLL = 4.54    PITCH = -5.41    
+
+ROLL = 4.51    PITCH = -5.37    
+
+ROLL = 4.51    PITCH = -5.39    
+
+ROLL = 4.49    PITCH = -5.40    
+
+ROLL = 4.46    PITCH = -5.39    
+
+ROLL = 4.42    PITCH = -5.39    
+
+ROLL = 4.41    PITCH = -5.40    
+
+ROLL = 4.38    PITCH = -5.37    
+
+ROLL = 4.36    PITCH = -5.33    
+
+ROLL = 4.35    PITCH = -5.30    
+
+ROLL = 4.34    PITCH = -5.27    
+
+ROLL = 4.33    PITCH = -5.25    
+
+ROLL = 4.32    PITCH = -5.18    
+
+ROLL = 4.31    PITCH = -5.16    
+
+ROLL = 4.30    PITCH = -5.14    
+
+ROLL = 4.30    PITCH = -5.12    
+
+ROLL = 4.28    PITCH = -5.09    
+
+ROLL = 4.28    PITCH = -5.09    
+
+ROLL = 4.26    PITCH = -5.09    
+
+ROLL = 4.25    PITCH = -5.10    
+
+ROLL = 4.23    PITCH = -5.12    
+
+ROLL = 4.22    PITCH = -5.13    
+
+ROLL = 4.20    PITCH = -5.14    
+
+ROLL = 4.18    PITCH = -5.16    
+
+ROLL = 4.16    PITCH = -5.22    
+
+ROLL = 4.15    PITCH = -5.26    
+
+ROLL = 4.11    PITCH = -5.27    
+
+ROLL = 4.09    PITCH = -5.25    
+
+ROLL = 4.08    PITCH = -5.24    
+
+ROLL = 4.06    PITCH = -5.29    
+
+ROLL = 4.04    PITCH = -5.32    
+
+ROLL = 4.00    PITCH = -5.25    
+
+ROLL = 3.99    PITCH = -5.22    
+
+ROLL = 3.96    PITCH = -5.21    
+
+ROLL = 3.94    PITCH = -5.20    
+
+ROLL = 3.89    PITCH = -5.12    
+
+ROLL = 3.87    PITCH = -5.10    
+
+ROLL = 3.85    PITCH = -5.15    
+
+ROLL = 3.82    PITCH = -5.15    
+
+ROLL = 3.75    PITCH = -5.05    
+
+ROLL = 3.73    PITCH = -5.02    
+
+ROLL = 3.71    PITCH = -5.02    
+
+ROLL = 3.68    PITCH = -5.00    
+
+ROLL = 3.62    PITCH = -4.93    
+
+ROLL = 3.60    PITCH = -4.91    
+
+ROLL = 3.55    PITCH = -4.94    
+
+ROLL = 3.52    PITCH = -4.93    
+
+ROLL = 3.45    PITCH = -4.89    
+
+ROLL = 3.43    PITCH = -4.89    
+
+ROLL = 3.40    PITCH = -4.90    
+
+ROLL = 3.33    PITCH = -4.91    
+
+ROLL = 3.30    PITCH = -4.90    
+
+ROLL = 3.26    PITCH = -4.88    
+
+ROLL = 3.24    PITCH = -4.88    
+
+ROLL = 3.18    PITCH = -4.87    
+
+ROLL = 3.16    PITCH = -4.86    
+
+ROLL = 3.13    PITCH = -4.84    
+
+ROLL = 3.12    PITCH = -4.83    
+
+ROLL = 3.08    PITCH = -4.82    
+
+ROLL = 3.06    PITCH = -4.82    
+
+ROLL = 3.04    PITCH = -4.80    
+
+ROLL = 3.02    PITCH = -4.79    
+
+ROLL = 2.99    PITCH = -4.78    
+
+ROLL = 2.98    PITCH = -4.77    
+
+ROLL = 2.97    PITCH = -4.76    
+
+ROLL = 2.96    PITCH = -4.76    
+
+ROLL = 2.95    PITCH = -4.75    
+
+ROLL = 2.95    PITCH = -4.74    
+
+ROLL = 2.94    PITCH = -4.74    
+
+ROLL = 2.93    PITCH = -4.73    
+
+ROLL = 2.93    PITCH = -4.73    
+
+ROLL = 2.94    PITCH = -4.72    
+
+ROLL = 2.94    PITCH = -4.73    
+
+ROLL = 2.94    PITCH = -4.73    
+
+ROLL = 2.94    PITCH = -4.73    
+
+ROLL = 2.95    PITCH = -4.74    
+
+ROLL = 2.95    PITCH = -4.75    
+
+ROLL = 2.96    PITCH = -4.76    
+
+ROLL = 2.97    PITCH = -4.77    
+
+ROLL = 2.99    PITCH = -4.78    
+
+ROLL = 3.00    PITCH = -4.79    
+
+ROLL = 3.01    PITCH = -4.80    
+
+ROLL = 3.02    PITCH = -4.80    
+
+ROLL = 3.04    PITCH = -4.80    
+
+ROLL = 3.05    PITCH = -4.80    
+
+ROLL = 3.07    PITCH = -4.80    
+
+ROLL = 3.08    PITCH = -4.80    
+
+ROLL = 3.09    PITCH = -4.80    
+
+ROLL = 3.10    PITCH = -4.79    
+
+ROLL = 3.11    PITCH = -4.79    
+
+ROLL = 3.12    PITCH = -4.78    
+
+ROLL = 3.12    PITCH = -4.77    
+
+ROLL = 3.13    PITCH = -4.76    
+
+ROLL = 3.13    PITCH = -4.76    
+
+ROLL = 3.14    PITCH = -4.74    
+
+ROLL = 3.14    PITCH = -4.73    
+
+ROLL = 3.15    PITCH = -4.71    
+
+ROLL = 3.15    PITCH = -4.70    
+
+ROLL = 3.15    PITCH = -4.68    
+
+ROLL = 3.15    PITCH = -4.68    
+
+ROLL = 3.15    PITCH = -4.67    
+
+ROLL = 3.15    PITCH = -4.66    
+
+ROLL = 3.14    PITCH = -4.65    
+
+ROLL = 3.14    PITCH = -4.65    
+
+ROLL = 3.15    PITCH = -4.64    
+
+ROLL = 3.15    PITCH = -4.64    
+
+ROLL = 3.15    PITCH = -4.64    
+
+ROLL = 3.16    PITCH = -4.63    
+
+ROLL = 3.18    PITCH = -4.63    
+
+ROLL = 3.18    PITCH = -4.63    
+
+ROLL = 3.19    PITCH = -4.63    
+
+ROLL = 3.20    PITCH = -4.63    
+
+ROLL = 3.20    PITCH = -4.63    
+
+ROLL = 3.22    PITCH = -4.63    
+
+ROLL = 3.22    PITCH = -4.62    
+
+ROLL = 3.25    PITCH = -4.62    
+
+ROLL = 3.25    PITCH = -4.62    
+
+ROLL = 3.28    PITCH = -4.61    
+
+ROLL = 3.29    PITCH = -4.61    
+
+ROLL = 3.30    PITCH = -4.59    
+
+ROLL = 3.31    PITCH = -4.59    
+
+ROLL = 3.33    PITCH = -4.57    
+
+ROLL = 3.34    PITCH = -4.56    
+
+ROLL = 3.36    PITCH = -4.54    
+
+ROLL = 3.37    PITCH = -4.54    
+
+ROLL = 3.39    PITCH = -4.52    
+
+ROLL = 3.40    PITCH = -4.51    
+
+ROLL = 3.42    PITCH = -4.50    
+
+ROLL = 3.43    PITCH = -4.49    
+
+ROLL = 3.46    PITCH = -4.47    
+
+ROLL = 3.47    PITCH = -4.46    
+
+ROLL = 3.49    PITCH = -4.45    
+
+ROLL = 3.52    PITCH = -4.43    
+
+ROLL = 3.54    PITCH = -4.42    
+
+ROLL = 3.57    PITCH = -4.39    
+
+ROLL = 3.59    PITCH = -4.38    
+
+ROLL = 3.63    PITCH = -4.35    
+
+ROLL = 3.65    PITCH = -4.33    
+
+ROLL = 3.68    PITCH = -4.31    
+
+ROLL = 3.70    PITCH = -4.29    
+
+ROLL = 3.73    PITCH = -4.26    
+
+ROLL = 3.74    PITCH = -4.25    
+
+ROLL = 3.76    PITCH = -4.22    
+
+ROLL = 3.77    PITCH = -4.21    
+
+ROLL = 3.78    PITCH = -4.19    
+
+ROLL = 3.80    PITCH = -4.18    
+
+ROLL = 3.82    PITCH = -4.15    
+
+ROLL = 3.82    PITCH = -4.14    
+
+ROLL = 3.84    PITCH = -4.12    
+
+ROLL = 3.84    PITCH = -4.10    
+
+ROLL = 3.86    PITCH = -4.07    
+
+ROLL = 3.86    PITCH = -4.05    
+
+ROLL = 3.86    PITCH = -4.04    
+
+ROLL = 3.87    PITCH = -4.01    
+
+ROLL = 3.88    PITCH = -4.00    
+
+ROLL = 3.89    PITCH = -3.98    
+
+ROLL = 3.90    PITCH = -3.97    
+
+ROLL = 3.92    PITCH = -3.97    
+
+ROLL = 3.93    PITCH = -3.96    
+
+ROLL = 3.95    PITCH = -3.96    
+
+ROLL = 3.97    PITCH = -3.96    
+
+ROLL = 4.00    PITCH = -3.95    
+
+ROLL = 4.02    PITCH = -3.95    
+
+ROLL = 4.06    PITCH = -3.95    
+
+ROLL = 4.07    PITCH = -3.95    
+
+ROLL = 4.11    PITCH = -3.94    
+
+ROLL = 4.13    PITCH = -3.94    
+
+ROLL = 4.17    PITCH = -3.94    
+
+ROLL = 4.19    PITCH = -3.94    
+
+ROLL = 4.23    PITCH = -3.93    
+
+ROLL = 4.25    PITCH = -3.93    
+
+ROLL = 4.28    PITCH = -3.92    
+
+ROLL = 4.29    PITCH = -3.92    
+
+ROLL = 4.31    PITCH = -3.92    
+
+ROLL = 4.34    PITCH = -3.92    
+
+ROLL = 4.35    PITCH = -3.93    
+
+ROLL = 4.39    PITCH = -3.92    
+
+ROLL = 4.41    PITCH = -3.91    
+
+ROLL = 4.45    PITCH = -3.89    
+
+ROLL = 4.48    PITCH = -3.87    
+
+ROLL = 4.53    PITCH = -3.82    
+
+ROLL = 4.55    PITCH = -3.79    
+
+ROLL = 4.61    PITCH = -3.73    
+
+ROLL = 4.63    PITCH = -3.71    
+
+ROLL = 4.67    PITCH = -3.65    
+
+ROLL = 4.69    PITCH = -3.62    
+
+ROLL = 4.73    PITCH = -3.55    
+
+ROLL = 4.75    PITCH = -3.52    
+
+ROLL = 4.80    PITCH = -3.45    
+
+ROLL = 4.82    PITCH = -3.41    
+
+ROLL = 4.86    PITCH = -3.34    
+
+ROLL = 4.89    PITCH = -3.32    
+
+ROLL = 4.93    PITCH = -3.28    
+
+ROLL = 4.95    PITCH = -3.24    
+
+ROLL = 4.98    PITCH = -3.21    
+
+ROLL = 5.03    PITCH = -3.13    
+
+ROLL = 5.06    PITCH = -3.08    
+
+ROLL = 5.12    PITCH = -2.96    
+
+ROLL = 5.16    PITCH = -2.91    
+
+ROLL = 5.23    PITCH = -2.78    
+
+ROLL = 5.27    PITCH = -2.72    
+
+ROLL = 5.35    PITCH = -2.59    
+
+ROLL = 5.39    PITCH = -2.54    
+
+ROLL = 5.48    PITCH = -2.44    
+
+ROLL = 5.53    PITCH = -2.39    
+
+ROLL = 5.63    PITCH = -2.27    
+
+ROLL = 5.69    PITCH = -2.21    
+
+ROLL = 5.83    PITCH = -2.11    
+
+ROLL = 5.90    PITCH = -2.08    
+
+ROLL = 6.06    PITCH = -2.03    
+
+ROLL = 6.15    PITCH = -2.00    
+
+ROLL = 6.35    PITCH = -1.98    
+
+ROLL = 6.46    PITCH = -1.98    
+
+ROLL = 6.59    PITCH = -1.99    
+
+ROLL = 6.86    PITCH = -1.97    
+
+ROLL = 7.01    PITCH = -1.96    
+
+ROLL = 7.33    PITCH = -1.95    
+
+ROLL = 7.51    PITCH = -1.93    
+
+ROLL = 7.88    PITCH = -1.84    
+
+ROLL = 8.07    PITCH = -1.80    
+
+ROLL = 8.46    PITCH = -1.75    
+
+ROLL = 8.64    PITCH = -1.71    
+
+ROLL = 9.01    PITCH = -1.59    
+
+ROLL = 9.22    PITCH = -1.53    
+
+ROLL = 9.65    PITCH = -1.40    
+
+ROLL = 9.87    PITCH = -1.31    
+
+ROLL = 10.30    PITCH = -1.12    
+
+ROLL = 10.52    PITCH = -1.02    
+
+ROLL = 10.99    PITCH = -0.81    
+
+ROLL = 11.23    PITCH = -0.67    
+
+ROLL = 11.72    PITCH = -0.35    
+
+ROLL = 11.97    PITCH = -0.21    
+
+ROLL = 12.46    PITCH = 0.05    
+
+ROLL = 12.70    PITCH = 0.21    
+
+ROLL = 13.19    PITCH = 0.57    
+
+ROLL = 13.43    PITCH = 0.74    
+
+ROLL = 13.92    PITCH = 1.07    
+
+ROLL = 14.18    PITCH = 1.25    
+
+ROLL = 14.69    PITCH = 1.64    
+
+ROLL = 14.95    PITCH = 1.85    
+
+ROLL = 15.46    PITCH = 2.23    
+
+ROLL = 15.73    PITCH = 2.43    
+
+ROLL = 16.26    PITCH = 2.85    
+
+ROLL = 16.52    PITCH = 3.07    
+
+ROLL = 16.78    PITCH = 3.28    
+
+ROLL = 17.33    PITCH = 3.68    
+
+ROLL = 17.60    PITCH = 3.89    
+
+ROLL = 18.15    PITCH = 4.29    
+
+ROLL = 18.43    PITCH = 4.48    
+
+ROLL = 18.99    PITCH = 4.88    
+
+ROLL = 19.30    PITCH = 5.06    
+
+ROLL = 19.89    PITCH = 5.40    
+
+ROLL = 20.17    PITCH = 5.55    
+
+ROLL = 20.71    PITCH = 5.86    
+
+ROLL = 20.98    PITCH = 6.01    
+
+ROLL = 21.51    PITCH = 6.27    
+
+ROLL = 21.76    PITCH = 6.40    
+
+ROLL = 22.26    PITCH = 6.64    
+
+ROLL = 22.51    PITCH = 6.76    
+
+ROLL = 23.04    PITCH = 7.00    
+
+ROLL = 23.30    PITCH = 7.12    
+
+ROLL = 23.81    PITCH = 7.35    
+
+ROLL = 24.06    PITCH = 7.47    
+
+ROLL = 24.55    PITCH = 7.69    
+
+ROLL = 24.79    PITCH = 7.80    
+
+ROLL = 25.03    PITCH = 7.91    
+
+ROLL = 25.49    PITCH = 8.13    
+
+ROLL = 25.71    PITCH = 8.23    
+
+ROLL = 26.16    PITCH = 8.44    
+
+ROLL = 26.37    PITCH = 8.53    
+
+ROLL = 26.79    PITCH = 8.73    
+
+ROLL = 26.99    PITCH = 8.82    
+
+ROLL = 27.37    PITCH = 9.01    
+
+ROLL = 27.56    PITCH = 9.10    
+
+ROLL = 27.90    PITCH = 9.28    
+
+ROLL = 28.06    PITCH = 9.37    
+
+ROLL = 28.35    PITCH = 9.55    
+
+ROLL = 28.49    PITCH = 9.65    
+
+ROLL = 28.76    PITCH = 9.83    
+
+ROLL = 28.90    PITCH = 9.92    
+
+ROLL = 29.14    PITCH = 10.10    
+
+ROLL = 29.24    PITCH = 10.19    
+
+ROLL = 29.44    PITCH = 10.36    
+
+ROLL = 29.52    PITCH = 10.43    
+
+ROLL = 29.68    PITCH = 10.58    
+
+ROLL = 29.74    PITCH = 10.65    
+
+ROLL = 29.86    PITCH = 10.79    
+
+ROLL = 29.90    PITCH = 10.86    
+
+ROLL = 29.97    PITCH = 10.99    
+
+ROLL = 29.99    PITCH = 11.05    
+
+ROLL = 30.01    PITCH = 11.17    
+
+ROLL = 30.02    PITCH = 11.23    
+
+ROLL = 30.01    PITCH = 11.34    
+
+ROLL = 29.99    PITCH = 11.40    
+
+ROLL = 29.96    PITCH = 11.50    
+
+ROLL = 29.94    PITCH = 11.55    
+
+ROLL = 29.89    PITCH = 11.65    
+
+ROLL = 29.86    PITCH = 11.69    
+
+ROLL = 29.80    PITCH = 11.78    
+
+ROLL = 29.76    PITCH = 11.82    
+
+ROLL = 29.68    PITCH = 11.88    
+
+ROLL = 29.60    PITCH = 11.94    
+
+ROLL = 29.55    PITCH = 11.96    
+
+ROLL = 29.46    PITCH = 11.99    
+
+ROLL = 29.42    PITCH = 12.00    
+
+ROLL = 29.34    PITCH = 12.01    
+
+ROLL = 29.29    PITCH = 12.01    
+
+ROLL = 29.21    PITCH = 12.01    
+
+ROLL = 29.17    PITCH = 11.99    
+
+ROLL = 29.07    PITCH = 11.96    
+
+ROLL = 29.02    PITCH = 11.93    
+
+ROLL = 28.91    PITCH = 11.88    
+
+ROLL = 28.86    PITCH = 11.84    
+
+ROLL = 28.74    PITCH = 11.75    
+
+ROLL = 28.68    PITCH = 11.71    
+
+ROLL = 28.55    PITCH = 11.59    
+
+ROLL = 28.48    PITCH = 11.54    
+
+ROLL = 28.34    PITCH = 11.42    
+
+ROLL = 28.27    PITCH = 11.35    
+
+ROLL = 28.13    PITCH = 11.22    
+
+ROLL = 28.06    PITCH = 11.16    
+
+ROLL = 27.91    PITCH = 11.02    
+
+ROLL = 27.84    PITCH = 10.96    
+
+ROLL = 27.67    PITCH = 10.82    
+
+ROLL = 27.59    PITCH = 10.76    
+
+ROLL = 27.42    PITCH = 10.63    
+
+ROLL = 27.34    PITCH = 10.56    
+
+ROLL = 27.16    PITCH = 10.44    
+
+ROLL = 26.98    PITCH = 10.31    
+
+ROLL = 26.88    PITCH = 10.25    
+
+ROLL = 26.69    PITCH = 10.12    
+
+ROLL = 26.59    PITCH = 10.06    
+
+ROLL = 26.39    PITCH = 9.94    
+
+ROLL = 26.29    PITCH = 9.88    
+
+ROLL = 26.09    PITCH = 9.76    
+
+ROLL = 25.99    PITCH = 9.71    
+
+ROLL = 25.78    PITCH = 9.59    
+
+ROLL = 25.67    PITCH = 9.54    
+
+ROLL = 25.56    PITCH = 9.48    
+
+ROLL = 25.33    PITCH = 9.37    
+
+ROLL = 25.21    PITCH = 9.31    
+
+ROLL = 24.96    PITCH = 9.19    
+
+ROLL = 24.83    PITCH = 9.13    
+
+ROLL = 24.55    PITCH = 9.01    
+
+ROLL = 24.41    PITCH = 8.94    
+
+ROLL = 24.11    PITCH = 8.81    
+
+ROLL = 23.95    PITCH = 8.74    
+
+ROLL = 23.62    PITCH = 8.60    
+
+ROLL = 23.45    PITCH = 8.52    
+
+ROLL = 23.09    PITCH = 8.36    
+
+ROLL = 22.91    PITCH = 8.28    
+
+ROLL = 22.54    PITCH = 8.12    
+
+ROLL = 22.34    PITCH = 8.03    
+
+ROLL = 21.93    PITCH = 7.86    
+
+ROLL = 21.72    PITCH = 7.76    
+
+ROLL = 21.29    PITCH = 7.58    
+
+ROLL = 21.07    PITCH = 7.48    
+
+ROLL = 20.62    PITCH = 7.27    
+
+ROLL = 20.39    PITCH = 7.17    
+
+ROLL = 20.15    PITCH = 7.06    
+
+ROLL = 19.66    PITCH = 6.82    
+
+ROLL = 19.41    PITCH = 6.70    
+
+ROLL = 18.90    PITCH = 6.46    
+
+ROLL = 18.64    PITCH = 6.34    
+
+ROLL = 18.11    PITCH = 6.08    
+
+ROLL = 17.83    PITCH = 5.95    
+
+ROLL = 17.26    PITCH = 5.68    
+
+ROLL = 16.96    PITCH = 5.53    
+
+ROLL = 16.37    PITCH = 5.22    
+
+ROLL = 16.06    PITCH = 5.05    
+
+ROLL = 15.43    PITCH = 4.69    
+
+ROLL = 15.10    PITCH = 4.49    
+
+ROLL = 14.45    PITCH = 4.09    
+
+ROLL = 14.12    PITCH = 3.89    
+
+ROLL = 13.47    PITCH = 3.47    
+
+ROLL = 13.14    PITCH = 3.26    
+
+ROLL = 12.47    PITCH = 2.83    
+
+ROLL = 12.14    PITCH = 2.62    
+
+ROLL = 11.81    PITCH = 2.39    
+
+ROLL = 11.14    PITCH = 1.92    
+
+ROLL = 10.81    PITCH = 1.67    
+
+ROLL = 10.14    PITCH = 1.16    
+
+ROLL = 9.80    PITCH = 0.90    
+
+ROLL = 9.11    PITCH = 0.35    
+
+ROLL = 8.77    PITCH = 0.07    
+
+ROLL = 8.10    PITCH = -0.48    
+
+ROLL = 7.76    PITCH = -0.76    
+
+ROLL = 7.11    PITCH = -1.35    
+
+ROLL = 6.80    PITCH = -1.66    
+
+ROLL = 6.15    PITCH = -2.29    
+
+ROLL = 5.82    PITCH = -2.60    
+
+ROLL = 5.14    PITCH = -3.24    
+
+ROLL = 4.80    PITCH = -3.56    
+
+ROLL = 4.45    PITCH = -3.89    
+
+ROLL = 3.77    PITCH = -4.54    
+
+ROLL = 3.43    PITCH = -4.87    
+
+ROLL = 2.71    PITCH = -5.52    
+
+ROLL = 2.33    PITCH = -5.87    
+
+ROLL = 1.56    PITCH = -6.55    
+
+ROLL = 1.17    PITCH = -6.87    
+
+ROLL = 0.39    PITCH = -7.49    
+
+ROLL = 0.01    PITCH = -7.79    
+
+ROLL = -0.79    PITCH = -8.40    
+
+ROLL = -1.22    PITCH = -8.71    
+
+ROLL = -2.15    PITCH = -9.24    
+
+ROLL = -2.57    PITCH = -9.49    
+
+ROLL = -3.39    PITCH = -10.22    
+
+ROLL = -3.79    PITCH = -10.50    
+
+ROLL = -4.71    PITCH = -10.98    
+
+ROLL = -5.78    PITCH = -11.45    
+
+ROLL = -6.30    PITCH = -11.70    
+
+ROLL = -7.17    PITCH = -12.15    
+
+ROLL = -7.59    PITCH = -12.33    
+
+ROLL = -8.51    PITCH = -12.70    
+
+ROLL = -8.97    PITCH = -12.88    
+
+ROLL = -9.77    PITCH = -13.16    
+
+ROLL = -10.12    PITCH = -13.27    
+
+ROLL = -10.79    PITCH = -13.51    
+
+ROLL = -11.53    PITCH = -13.74    
+
+ROLL = -11.89    PITCH = -13.83    
+
+ROLL = -12.56    PITCH = -14.01    
+
+ROLL = -13.18    PITCH = -14.16    
+
+ROLL = -13.49    PITCH = -14.21    
+
+ROLL = -14.07    PITCH = -14.29    
+
+ROLL = -14.34    PITCH = -14.32    
+
+ROLL = -14.88    PITCH = -14.38    
+
+ROLL = -15.40    PITCH = -14.41    
+
+ROLL = -15.65    PITCH = -14.42    
+
+ROLL = -16.12    PITCH = -14.45    
+
+ROLL = -16.36    PITCH = -14.47    
+
+ROLL = -16.84    PITCH = -14.50    
+
+ROLL = -17.31    PITCH = -14.53    
+
+ROLL = -17.54    PITCH = -14.55    
+
+ROLL = -17.99    PITCH = -14.57    
+
+ROLL = -18.20    PITCH = -14.58    
+
+ROLL = -18.62    PITCH = -14.60    
+
+ROLL = -19.00    PITCH = -14.62    
+
+ROLL = -19.18    PITCH = -14.63    
+
+ROLL = -19.53    PITCH = -14.65    
+
+ROLL = -19.69    PITCH = -14.66    
+
+ROLL = -19.99    PITCH = -14.68    
+
+ROLL = -20.24    PITCH = -14.70    
+
+ROLL = -20.35    PITCH = -14.70    
+
+ROLL = -20.53    PITCH = -14.71    
+
+ROLL = -20.61    PITCH = -14.72    
+
+ROLL = -20.74    PITCH = -14.74    
+
+ROLL = -20.86    PITCH = -14.77    
+
+ROLL = -20.89    PITCH = -14.78    
+
+ROLL = -20.94    PITCH = -14.83    
+
+ROLL = -20.95    PITCH = -14.85    
+
+ROLL = -20.94    PITCH = -14.91    
+
+ROLL = -20.90    PITCH = -14.98    
+
+ROLL = -20.87    PITCH = -15.02    
+
+ROLL = -20.77    PITCH = -15.11    
+
+ROLL = -20.65    PITCH = -15.20    
+
+ROLL = -20.58    PITCH = -15.24    
+
+ROLL = -20.41    PITCH = -15.35    
+
+ROLL = -20.33    PITCH = -15.40    
+
+ROLL = -20.14    PITCH = -15.52    
+
+ROLL = -19.93    PITCH = -15.65    
+
+ROLL = -19.83    PITCH = -15.73    
+
+ROLL = -19.61    PITCH = -15.88    
+
+ROLL = -19.50    PITCH = -15.95    
+
+ROLL = -19.27    PITCH = -16.10    
+
+ROLL = -19.02    PITCH = -16.25    
+
+ROLL = -18.90    PITCH = -16.32    
+
+ROLL = -18.66    PITCH = -16.46    
+
+ROLL = -18.54    PITCH = -16.52    
+
+ROLL = -18.30    PITCH = -16.65    
+
+ROLL = -18.06    PITCH = -16.76    
+
+ROLL = -17.95    PITCH = -16.81    
+
+ROLL = -17.72    PITCH = -16.90    
+
+ROLL = -17.61    PITCH = -16.93    
+
+ROLL = -17.38    PITCH = -16.99    
+
+ROLL = -17.17    PITCH = -17.03    
+
+ROLL = -17.07    PITCH = -17.05    
+
+ROLL = -16.87    PITCH = -17.09    
+
+ROLL = -16.77    PITCH = -17.10    
+
+ROLL = -16.59    PITCH = -17.10    
+
+ROLL = -16.41    PITCH = -17.09    
+
+ROLL = -16.33    PITCH = -17.08    
+
+ROLL = -16.19    PITCH = -17.05    
+
+ROLL = -16.12    PITCH = -17.03    
+
+ROLL = -16.01    PITCH = -16.98    
+
+ROLL = -15.90    PITCH = -16.89    
+
+ROLL = -15.85    PITCH = -16.85    
+
+ROLL = -15.77    PITCH = -16.76    
+
+ROLL = -15.73    PITCH = -16.72    
+
+ROLL = -15.67    PITCH = -16.63    
+
+ROLL = -15.63    PITCH = -16.55    
+
+ROLL = -15.61    PITCH = -16.51    
+
+ROLL = -15.58    PITCH = -16.43    
+
+ROLL = -15.56    PITCH = -16.34    
+
+ROLL = -15.54    PITCH = -16.30    
+
+ROLL = -15.53    PITCH = -16.23    
+
+ROLL = -15.51    PITCH = -16.19    
+
+ROLL = -15.48    PITCH = -16.10    
+
+ROLL = -15.45    PITCH = -16.02    
+
+ROLL = -15.44    PITCH = -15.98    
+
+ROLL = -15.41    PITCH = -15.90    
+
+ROLL = -15.39    PITCH = -15.87    
+
+ROLL = -15.35    PITCH = -15.80    
+
+ROLL = -15.31    PITCH = -15.74    
+
+ROLL = -15.29    PITCH = -15.71    
+
+ROLL = -15.25    PITCH = -15.66    
+
+ROLL = -15.22    PITCH = -15.63    
+
+ROLL = -15.17    PITCH = -15.58    
+
+ROLL = -15.11    PITCH = -15.52    
+
+ROLL = -15.08    PITCH = -15.49    
+
+ROLL = -15.02    PITCH = -15.45    
+
+ROLL = -14.98    PITCH = -15.43    
+
+ROLL = -14.90    PITCH = -15.39    
+
+ROLL = -14.82    PITCH = -15.35    
+
+ROLL = -14.78    PITCH = -15.33    
+
+ROLL = -14.69    PITCH = -15.28    
+
+ROLL = -14.64    PITCH = -15.26    
+
+ROLL = -14.54    PITCH = -15.21    
+
+ROLL = -14.45    PITCH = -15.17    
+
+ROLL = -14.40    PITCH = -15.14    
+
+ROLL = -14.30    PITCH = -15.09    
+
+ROLL = -14.24    PITCH = -15.07    
+
+ROLL = -14.13    PITCH = -15.01    
+
+ROLL = -14.00    PITCH = -14.95    
+
+ROLL = -13.93    PITCH = -14.92    
+
+ROLL = -13.78    PITCH = -14.84    
+
+ROLL = -13.63    PITCH = -14.77    
+
+ROLL = -13.55    PITCH = -14.72    
+
+ROLL = -13.39    PITCH = -14.64    
+
+ROLL = -13.30    PITCH = -14.59    
+
+ROLL = -13.14    PITCH = -14.51    
+
+ROLL = -12.97    PITCH = -14.43    
+
+ROLL = -12.89    PITCH = -14.40    
+
+ROLL = -12.71    PITCH = -14.32    
+
+ROLL = -12.62    PITCH = -14.26    
+
+ROLL = -12.44    PITCH = -14.14    
+
+ROLL = -12.24    PITCH = -14.04    
+
+ROLL = -12.15    PITCH = -13.99    
+
+ROLL = -11.97    PITCH = -13.90    
+
+ROLL = -11.87    PITCH = -13.86    
+
+ROLL = -11.66    PITCH = -13.77    
+
+ROLL = -11.45    PITCH = -13.67    
+
+ROLL = -11.33    PITCH = -13.62    
+
+ROLL = -11.09    PITCH = -13.48    
+
+ROLL = -10.96    PITCH = -13.41    
+
+ROLL = -10.69    PITCH = -13.28    
+
+ROLL = -10.43    PITCH = -13.18    
+
+ROLL = -10.29    PITCH = -13.14    
+
+ROLL = -10.02    PITCH = -13.07    
+
+ROLL = -9.88    PITCH = -13.04    
+
+ROLL = -9.58    PITCH = -12.97    
+
+ROLL = -9.28    PITCH = -12.85    
+
+ROLL = -9.12    PITCH = -12.76    
+
+ROLL = -8.77    PITCH = -12.55    
+
+ROLL = -8.57    PITCH = -12.45    
+
+ROLL = -8.19    PITCH = -12.26    
+
+ROLL = -8.01    PITCH = -12.15    
+
+ROLL = -7.63    PITCH = -11.98    
+
+ROLL = -7.25    PITCH = -11.81    
+
+ROLL = -7.06    PITCH = -11.73    
+
+ROLL = -6.68    PITCH = -11.58    
+
+ROLL = -6.49    PITCH = -11.51    
+
+ROLL = -6.10    PITCH = -11.36    
+
+ROLL = -5.89    PITCH = -11.31    
+
+ROLL = -5.47    PITCH = -11.18    
+
+ROLL = -5.26    PITCH = -11.08    
+
+ROLL = -4.81    PITCH = -10.87    
+
+ROLL = -4.33    PITCH = -10.70    
+
+ROLL = -4.10    PITCH = -10.61    
+
+ROLL = -3.62    PITCH = -10.43    
+
+ROLL = -3.37    PITCH = -10.37    
+
+ROLL = -2.88    PITCH = -10.27    
+
+ROLL = -2.63    PITCH = -10.22    
+
+ROLL = -2.13    PITCH = -10.09    
+
+ROLL = -1.62    PITCH = -9.97    
+
+ROLL = -1.36    PITCH = -9.88    
+
+ROLL = -0.84    PITCH = -9.68    
+
+ROLL = -0.58    PITCH = -9.59    
+
+ROLL = -0.05    PITCH = -9.41    
+
+ROLL = 0.23    PITCH = -9.30    
+
+ROLL = 0.77    PITCH = -9.04    
+
+ROLL = 1.04    PITCH = -8.90    
+
+ROLL = 1.56    PITCH = -8.64    
+
+ROLL = 1.82    PITCH = -8.50    
+
+ROLL = 2.09    PITCH = -8.35    
+
+ROLL = 2.64    PITCH = -7.99    
+
+ROLL = 2.92    PITCH = -7.77    
+
+ROLL = 3.50    PITCH = -7.34    
+
+ROLL = 3.80    PITCH = -7.13    
+
+ROLL = 4.36    PITCH = -6.70    
+
+ROLL = 4.64    PITCH = -6.49    
+
+ROLL = 5.20    PITCH = -6.10    
+
+ROLL = 5.50    PITCH = -5.95    
+
+ROLL = 6.09    PITCH = -5.58    
+
+ROLL = 6.37    PITCH = -5.32    
+
+ROLL = 6.97    PITCH = -4.79    
+
+ROLL = 7.28    PITCH = -4.60    
+
+ROLL = 7.87    PITCH = -4.25    
+
+ROLL = 8.17    PITCH = -4.02    
+
+ROLL = 8.82    PITCH = -3.47    
+
+ROLL = 9.14    PITCH = -3.25    
+
+ROLL = 9.73    PITCH = -2.89    
+
+ROLL = 10.10    PITCH = -2.70    
+
+ROLL = 10.84    PITCH = -2.21    
+
+ROLL = 11.19    PITCH = -1.97    
+
+ROLL = 11.81    PITCH = -1.57    
+
+ROLL = 12.14    PITCH = -1.39    
+
+ROLL = 12.85    PITCH = -0.98    
+
+ROLL = 13.21    PITCH = -0.78    
+
+ROLL = 13.86    PITCH = -0.39    
+
+ROLL = 14.18    PITCH = -0.20    
+
+ROLL = 14.84    PITCH = 0.21    
+
+ROLL = 15.18    PITCH = 0.43    
+
+ROLL = 15.82    PITCH = 0.82    
+
+ROLL = 16.13    PITCH = 1.01    
+
+ROLL = 16.77    PITCH = 1.40    
+
+ROLL = 17.10    PITCH = 1.58    
+
+ROLL = 17.75    PITCH = 1.92    
+
+ROLL = 18.07    PITCH = 2.09    
+
+ROLL = 18.70    PITCH = 2.42    
+
+ROLL = 19.03    PITCH = 2.57    
+
+ROLL = 19.37    PITCH = 2.71    
+
+ROLL = 20.03    PITCH = 3.01    
+
+ROLL = 20.36    PITCH = 3.18    
+
+ROLL = 21.06    PITCH = 3.51    
+
+ROLL = 21.40    PITCH = 3.65    
+
+ROLL = 22.08    PITCH = 3.95    
+
+ROLL = 22.40    PITCH = 4.11    
+
+ROLL = 23.02    PITCH = 4.43    
+
+ROLL = 23.32    PITCH = 4.58    
+
+ROLL = 23.92    PITCH = 4.87    
+
+ROLL = 24.21    PITCH = 5.01    
+
+ROLL = 24.78    PITCH = 5.30    
+
+ROLL = 25.05    PITCH = 5.43    
+
+ROLL = 25.59    PITCH = 5.68    
+
+ROLL = 25.84    PITCH = 5.80    
+
+ROLL = 26.33    PITCH = 6.03    
+
+ROLL = 26.57    PITCH = 6.14    
+
+ROLL = 27.02    PITCH = 6.35    
+
+ROLL = 27.23    PITCH = 6.45    
+
+ROLL = 27.64    PITCH = 6.63    
+
+ROLL = 27.84    PITCH = 6.71    
+
+ROLL = 28.03    PITCH = 6.80    
+
+ROLL = 28.41    PITCH = 6.95    
+
+ROLL = 28.59    PITCH = 7.02    
+
+ROLL = 28.93    PITCH = 7.16    
+
+ROLL = 29.10    PITCH = 7.23    
+
+ROLL = 29.42    PITCH = 7.36    
+
+ROLL = 29.58    PITCH = 7.43    
+
+ROLL = 29.87    PITCH = 7.56    
+
+ROLL = 30.01    PITCH = 7.62    
+
+ROLL = 30.26    PITCH = 7.74    
+
+ROLL = 30.39    PITCH = 7.79    
+
+ROLL = 30.61    PITCH = 7.90    
+
+ROLL = 30.73    PITCH = 7.95    
+
+ROLL = 30.93    PITCH = 8.04    
+
+ROLL = 31.03    PITCH = 8.08    
+
+ROLL = 31.21    PITCH = 8.17    
+
+ROLL = 31.30    PITCH = 8.21    
+
+ROLL = 31.46    PITCH = 8.30    
+
+ROLL = 31.53    PITCH = 8.35    
+
+ROLL = 31.67    PITCH = 8.44    
+
+ROLL = 31.74    PITCH = 8.49    
+
+ROLL = 31.80    PITCH = 8.55    
+
+ROLL = 31.90    PITCH = 8.65    
+
+ROLL = 31.94    PITCH = 8.71    
+
+ROLL = 32.00    PITCH = 8.81    
+
+ROLL = 32.02    PITCH = 8.86    
+
+ROLL = 32.04    PITCH = 8.97    
+
+ROLL = 32.05    PITCH = 9.02    
+
+ROLL = 32.05    PITCH = 9.12    
+
+ROLL = 32.04    PITCH = 9.17    
+
+ROLL = 32.03    PITCH = 9.27    
+
+ROLL = 32.01    PITCH = 9.31    
+
+ROLL = 31.98    PITCH = 9.40    
+
+ROLL = 31.95    PITCH = 9.44    
+
+ROLL = 31.92    PITCH = 9.52    
+
+ROLL = 31.90    PITCH = 9.56    
+
+ROLL = 31.85    PITCH = 9.62    
+
+ROLL = 31.83    PITCH = 9.65    
+
+ROLL = 31.80    PITCH = 9.70    
+
+ROLL = 31.78    PITCH = 9.72    
+
+ROLL = 31.77    PITCH = 9.74    
+
+ROLL = 31.73    PITCH = 9.76    
+
+ROLL = 31.72    PITCH = 9.76    
+
+ROLL = 31.69    PITCH = 9.76    
+
+ROLL = 31.67    PITCH = 9.76    
+
+ROLL = 31.65    PITCH = 9.74    
+
+ROLL = 31.64    PITCH = 9.72    
+
+ROLL = 31.61    PITCH = 9.68    
+
+ROLL = 31.60    PITCH = 9.66    
+
+ROLL = 31.57    PITCH = 9.61    
+
+ROLL = 31.56    PITCH = 9.59    
+
+ROLL = 31.54    PITCH = 9.53    
+
+ROLL = 31.53    PITCH = 9.50    
+
+ROLL = 31.51    PITCH = 9.44    
+
+ROLL = 31.51    PITCH = 9.41    
+
+ROLL = 31.50    PITCH = 9.35    
+
+ROLL = 31.49    PITCH = 9.31    
+
+ROLL = 31.48    PITCH = 9.24    
+
+ROLL = 31.46    PITCH = 9.21    
+
+ROLL = 31.43    PITCH = 9.13    
+
+ROLL = 31.41    PITCH = 9.09    
+
+ROLL = 31.39    PITCH = 9.05    
+
+ROLL = 31.35    PITCH = 8.97    
+
+ROLL = 31.32    PITCH = 8.93    
+
+ROLL = 31.27    PITCH = 8.85    
+
+ROLL = 31.24    PITCH = 8.81    
+
+ROLL = 31.16    PITCH = 8.72    
+
+ROLL = 31.12    PITCH = 8.68    
+
+ROLL = 31.03    PITCH = 8.60    
+
+ROLL = 30.99    PITCH = 8.57    
+
+ROLL = 30.89    PITCH = 8.50    
+
+ROLL = 30.84    PITCH = 8.46    
+
+ROLL = 30.72    PITCH = 8.40    
+
+ROLL = 30.66    PITCH = 8.38    
+
+ROLL = 30.54    PITCH = 8.33    
+
+ROLL = 30.47    PITCH = 8.30    
+
+ROLL = 30.33    PITCH = 8.25    
+
+ROLL = 30.25    PITCH = 8.22    
+
+ROLL = 30.10    PITCH = 8.18    
+
+ROLL = 30.03    PITCH = 8.15    
+
+ROLL = 29.87    PITCH = 8.11    
+
+ROLL = 29.80    PITCH = 8.08    
+
+ROLL = 29.72    PITCH = 8.06    
+
+ROLL = 29.57    PITCH = 8.01    
+
+ROLL = 29.49    PITCH = 7.98    
+
+ROLL = 29.34    PITCH = 7.92    
+
+ROLL = 29.26    PITCH = 7.89    
+
+ROLL = 29.10    PITCH = 7.83    
+
+ROLL = 29.03    PITCH = 7.79    
+
+ROLL = 28.89    PITCH = 7.70    
+
+ROLL = 28.82    PITCH = 7.66    
+
+ROLL = 28.68    PITCH = 7.57    
+
+ROLL = 28.62    PITCH = 7.52    
+
+ROLL = 28.50    PITCH = 7.42    
+
+ROLL = 28.44    PITCH = 7.37    
+
+ROLL = 28.33    PITCH = 7.26    
+
+ROLL = 28.27    PITCH = 7.20    
+
+ROLL = 28.15    PITCH = 7.08    
+
+ROLL = 28.09    PITCH = 7.01    
+
+ROLL = 27.97    PITCH = 6.88    
+
+ROLL = 27.91    PITCH = 6.82    
+
+ROLL = 27.81    PITCH = 6.69    
+
+ROLL = 27.75    PITCH = 6.62    
+
+ROLL = 27.69    PITCH = 6.55    
+
+ROLL = 27.57    PITCH = 6.42    
+
+ROLL = 27.50    PITCH = 6.36    
+
+ROLL = 27.35    PITCH = 6.23    
+
+ROLL = 27.27    PITCH = 6.17    
+
+ROLL = 27.10    PITCH = 6.06    
+
+ROLL = 27.01    PITCH = 6.00    
+
+ROLL = 26.81    PITCH = 5.90    
+
+ROLL = 26.70    PITCH = 5.85    
+
+ROLL = 26.47    PITCH = 5.77    
+
+ROLL = 26.33    PITCH = 5.72    
+
+ROLL = 26.06    PITCH = 5.63    
+
+ROLL = 25.91    PITCH = 5.59    
+
+ROLL = 25.60    PITCH = 5.50    
+
+ROLL = 25.44    PITCH = 5.46    
+
+ROLL = 25.10    PITCH = 5.38    
+
+ROLL = 24.92    PITCH = 5.34    
+
+ROLL = 24.56    PITCH = 5.25    
+
+ROLL = 24.37    PITCH = 5.20    
+
+ROLL = 23.97    PITCH = 5.08    
+
+ROLL = 23.77    PITCH = 5.02    
+
+ROLL = 23.56    PITCH = 4.96    
+
+ROLL = 23.15    PITCH = 4.82    
+
+ROLL = 22.94    PITCH = 4.75    
+
+ROLL = 22.52    PITCH = 4.59    
+
+ROLL = 22.31    PITCH = 4.51    
+
+ROLL = 21.87    PITCH = 4.34    
+
+ROLL = 21.65    PITCH = 4.26    
+
+ROLL = 21.20    PITCH = 4.07    
+
+ROLL = 20.98    PITCH = 3.97    
+
+ROLL = 20.52    PITCH = 3.76    
+
+ROLL = 20.28    PITCH = 3.66    
+
+ROLL = 19.81    PITCH = 3.46    
+
+ROLL = 19.57    PITCH = 3.35    
+
+ROLL = 19.10    PITCH = 3.14    
+
+ROLL = 18.85    PITCH = 3.03    
+
+ROLL = 18.36    PITCH = 2.81    
+
+ROLL = 18.11    PITCH = 2.70    
+
+ROLL = 17.61    PITCH = 2.50    
+
+ROLL = 17.37    PITCH = 2.40    
+
+ROLL = 17.11    PITCH = 2.30    
+
+ROLL = 16.58    PITCH = 2.11    
+
+ROLL = 16.31    PITCH = 2.01    
+
+ROLL = 15.77    PITCH = 1.78    
+
+ROLL = 15.49    PITCH = 1.66    
+
+ROLL = 14.93    PITCH = 1.43    
+
+ROLL = 14.65    PITCH = 1.31    
+
+ROLL = 14.09    PITCH = 1.07    
+
+ROLL = 13.80    PITCH = 0.94    
+
+ROLL = 13.21    PITCH = 0.64    
+
+ROLL = 12.92    PITCH = 0.47    
+
+ROLL = 12.34    PITCH = 0.13    
+
+ROLL = 12.05    PITCH = -0.04    
+
+ROLL = 11.46    PITCH = -0.43    
+
+ROLL = 11.18    PITCH = -0.65    
+
+ROLL = 10.62    PITCH = -1.10    
+
+ROLL = 10.35    PITCH = -1.32    
+
+ROLL = 9.78    PITCH = -1.79    
+
+ROLL = 9.50    PITCH = -2.05    
+
+ROLL = 8.96    PITCH = -2.56    
+
+ROLL = 8.68    PITCH = -2.81    
+
+ROLL = 8.12    PITCH = -3.34    
+
+ROLL = 7.86    PITCH = -3.64    
+
+ROLL = 7.34    PITCH = -4.22    
+
+ROLL = 7.05    PITCH = -4.50    
+
+ROLL = 6.43    PITCH = -5.06    
+
+ROLL = 6.13    PITCH = -5.36    
+
+ROLL = 5.54    PITCH = -5.93    
+
+ROLL = 5.25    PITCH = -6.21    
+
+ROLL = 4.62    PITCH = -6.74    
+
+ROLL = 4.30    PITCH = -7.00    
+
+ROLL = 3.98    PITCH = -7.26    
+
+ROLL = 3.36    PITCH = -7.79    
+
+ROLL = 3.04    PITCH = -8.04    
+
+ROLL = 2.38    PITCH = -8.54    
+
+ROLL = 2.05    PITCH = -8.79    
+
+ROLL = 1.39    PITCH = -9.30    
+
+ROLL = 1.05    PITCH = -9.55    
+
+ROLL = 0.39    PITCH = -10.07    
+
+ROLL = 0.05    PITCH = -10.33    
+
+ROLL = -0.62    PITCH = -10.86    
+
+ROLL = -0.95    PITCH = -11.13    
+
+ROLL = -1.63    PITCH = -11.65    
+
+ROLL = -2.32    PITCH = -12.17    
+
+ROLL = -2.69    PITCH = -12.43    
+
+ROLL = -3.41    PITCH = -12.93    
+
+ROLL = -3.76    PITCH = -13.20    
+
+ROLL = -4.47    PITCH = -13.83    
+
+ROLL = -4.84    PITCH = -14.09    
+
+ROLL = -5.55    PITCH = -14.54    
+
+ROLL = -5.93    PITCH = -14.79    
+
+ROLL = -6.69    PITCH = -15.31    
+
+ROLL = -7.32    PITCH = -15.76    
+
+ROLL = -7.67    PITCH = -15.93    
+
+ROLL = -8.42    PITCH = -16.37    
+
+ROLL = -8.77    PITCH = -16.58    
+
+ROLL = -9.34    PITCH = -16.90    
+
+ROLL = -9.63    PITCH = -17.05    
+
+ROLL = -10.25    PITCH = -17.31    
+
+ROLL = -10.86    PITCH = -17.57    
+
+ROLL = -11.15    PITCH = -17.69    
+
+ROLL = -11.76    PITCH = -17.91    
+
+ROLL = -12.07    PITCH = -18.02    
+
+ROLL = -12.66    PITCH = -18.22    
+
+ROLL = -13.24    PITCH = -18.40    
+
+ROLL = -13.53    PITCH = -18.49    
+
+ROLL = -14.12    PITCH = -18.66    
+
+ROLL = -14.40    PITCH = -18.74    
+
+ROLL = -14.96    PITCH = -18.89    
+
+ROLL = -15.52    PITCH = -19.04    
+
+ROLL = -15.80    PITCH = -19.10    
+
+ROLL = -16.33    PITCH = -19.21    
+
+ROLL = -16.58    PITCH = -19.26    
+
+ROLL = -17.08    PITCH = -19.35    
+
+ROLL = -17.54    PITCH = -19.42    
+
+ROLL = -17.75    PITCH = -19.44    
+
+ROLL = -18.16    PITCH = -19.49    
+
+ROLL = -18.36    PITCH = -19.51    
+
+ROLL = -18.74    PITCH = -19.55    
+
+ROLL = -19.08    PITCH = -19.59    
+
+ROLL = -19.25    PITCH = -19.60    
+
+ROLL = -19.54    PITCH = -19.63    
+
+ROLL = -19.68    PITCH = -19.65    
+
+ROLL = -19.92    PITCH = -19.67    
+
+ROLL = -20.13    PITCH = -19.69    
+
+ROLL = -20.22    PITCH = -19.71    
+
+ROLL = -20.37    PITCH = -19.73    
+
+ROLL = -20.50    PITCH = -19.76    
+
+ROLL = -20.55    PITCH = -19.77    
+
+ROLL = -20.66    PITCH = -19.79    
+
+ROLL = -20.70    PITCH = -19.79    
+
+ROLL = -20.77    PITCH = -19.81    
+
+ROLL = -20.82    PITCH = -19.83    
+
+ROLL = -20.84    PITCH = -19.83    
+
+ROLL = -20.85    PITCH = -19.84    
+
+ROLL = -20.85    PITCH = -19.85    
+
+ROLL = -20.84    PITCH = -19.86    
+
+ROLL = -20.82    PITCH = -19.87    
+
+ROLL = -20.80    PITCH = -19.87    
+
+ROLL = -20.76    PITCH = -19.88    
+
+ROLL = -20.74    PITCH = -19.89    
+
+ROLL = -20.69    PITCH = -19.90    
+
+ROLL = -20.63    PITCH = -19.90    
+
+ROLL = -20.60    PITCH = -19.90    
+
+ROLL = -20.53    PITCH = -19.91    
+
+ROLL = -20.49    PITCH = -19.90    
+
+ROLL = -20.41    PITCH = -19.89    
+
+ROLL = -20.31    PITCH = -19.86    
+
+ROLL = -20.25    PITCH = -19.85    
+
+ROLL = -20.14    PITCH = -19.82    
+
+ROLL = -20.09    PITCH = -19.80    
+
+ROLL = -19.97    PITCH = -19.77    
+
+ROLL = -19.84    PITCH = -19.73    
+
+ROLL = -19.77    PITCH = -19.71    
+
+ROLL = -19.62    PITCH = -19.66    
+
+ROLL = -19.55    PITCH = -19.63    
+
+ROLL = -19.39    PITCH = -19.55    
+
+ROLL = -19.22    PITCH = -19.48    
+
+ROLL = -19.14    PITCH = -19.44    
+
+ROLL = -18.97    PITCH = -19.36    
+
+ROLL = -18.80    PITCH = -19.28    
+
+ROLL = -18.71    PITCH = -19.25    
+
+ROLL = -18.54    PITCH = -19.16    
+
+ROLL = -18.45    PITCH = -19.12    
+
+ROLL = -18.28    PITCH = -19.05    
+
+ROLL = -18.11    PITCH = -18.97    
+
+ROLL = -18.02    PITCH = -18.94    
+
+ROLL = -17.86    PITCH = -18.86    
+
+ROLL = -17.78    PITCH = -18.82    
+
+ROLL = -17.63    PITCH = -18.76    
+
+ROLL = -17.48    PITCH = -18.70    
+
+ROLL = -17.42    PITCH = -18.67    
+
+ROLL = -17.29    PITCH = -18.61    
+
+ROLL = -17.23    PITCH = -18.59    
+
+ROLL = -17.13    PITCH = -18.55    
+
+ROLL = -17.03    PITCH = -18.51    
+
+ROLL = -16.99    PITCH = -18.50    
+
+ROLL = -16.91    PITCH = -18.47    
+
+ROLL = -16.87    PITCH = -18.46    
+
+ROLL = -16.81    PITCH = -18.43    
+
+ROLL = -16.75    PITCH = -18.41    
+
+ROLL = -16.72    PITCH = -18.40    
+
+ROLL = -16.67    PITCH = -18.38    
+
+ROLL = -16.65    PITCH = -18.37    
+
+ROLL = -16.60    PITCH = -18.35    
+
+ROLL = -16.55    PITCH = -18.32    
+
+ROLL = -16.52    PITCH = -18.30    
+
+ROLL = -16.48    PITCH = -18.27    
+
+ROLL = -16.46    PITCH = -18.25    
+
+ROLL = -16.43    PITCH = -18.21    
+
+ROLL = -16.40    PITCH = -18.17    
+
+ROLL = -16.38    PITCH = -18.15    
+
+ROLL = -16.36    PITCH = -18.11    
+
+ROLL = -16.34    PITCH = -18.07    
+
+ROLL = -16.33    PITCH = -18.05    
+
+ROLL = -16.32    PITCH = -18.00    
+
+ROLL = -16.30    PITCH = -17.98    
+
+ROLL = -16.28    PITCH = -17.93    
+
+ROLL = -16.26    PITCH = -17.89    
+
+ROLL = -16.24    PITCH = -17.86    
+
+ROLL = -16.21    PITCH = -17.81    
+
+ROLL = -16.20    PITCH = -17.78    
+
+ROLL = -16.17    PITCH = -17.73    
+
+ROLL = -16.13    PITCH = -17.67    
+
+ROLL = -16.11    PITCH = -17.65    
+
+ROLL = -16.07    PITCH = -17.59    
+
+ROLL = -16.04    PITCH = -17.56    
+
+ROLL = -15.99    PITCH = -17.50    
+
+ROLL = -15.94    PITCH = -17.43    
+
+ROLL = -15.91    PITCH = -17.40    
+
+ROLL = -15.85    PITCH = -17.34    
+
+ROLL = -15.81    PITCH = -17.31    
+
+ROLL = -15.74    PITCH = -17.24    
+
+ROLL = -15.65    PITCH = -17.16    
+
+ROLL = -15.60    PITCH = -17.12    
+
+ROLL = -15.49    PITCH = -17.03    
+
+ROLL = -15.44    PITCH = -16.98    
+
+ROLL = -15.32    PITCH = -16.89    
+
+ROLL = -15.20    PITCH = -16.79    
+
+ROLL = -15.14    PITCH = -16.74    
+
+ROLL = -15.01    PITCH = -16.64    
+
+ROLL = -14.94    PITCH = -16.58    
+
+ROLL = -14.80    PITCH = -16.47    
+
+ROLL = -14.65    PITCH = -16.35    
+
+ROLL = -14.57    PITCH = -16.29    
+
+ROLL = -14.41    PITCH = -16.17    
+
+ROLL = -14.25    PITCH = -16.04    
+
+ROLL = -14.16    PITCH = -15.97    
+
+ROLL = -13.99    PITCH = -15.84    
+
+ROLL = -13.90    PITCH = -15.77    
+
+ROLL = -13.73    PITCH = -15.63    
+
+ROLL = -13.54    PITCH = -15.47    
+
+ROLL = -13.44    PITCH = -15.39    
+
+ROLL = -13.24    PITCH = -15.21    
+
+ROLL = -13.13    PITCH = -15.11    
+
+ROLL = -12.90    PITCH = -14.91    
+
+ROLL = -12.65    PITCH = -14.68    
+
+ROLL = -12.51    PITCH = -14.57    
+
+ROLL = -12.24    PITCH = -14.33    
+
+ROLL = -12.08    PITCH = -14.20    
+
+ROLL = -11.76    PITCH = -13.95    
+
+ROLL = -11.42    PITCH = -13.68    
+
+ROLL = -11.24    PITCH = -13.55    
+
+ROLL = -10.88    PITCH = -13.25    
+
+ROLL = -10.69    PITCH = -13.08    
+
+ROLL = -10.26    PITCH = -12.75    
+
+ROLL = -9.82    PITCH = -12.46    
+
+ROLL = -9.60    PITCH = -12.30    
+
+ROLL = -9.13    PITCH = -11.99    
+
+ROLL = -8.89    PITCH = -11.84    
+
+ROLL = -8.42    PITCH = -11.59    
+
+ROLL = -8.18    PITCH = -11.46    
+
+ROLL = -7.69    PITCH = -11.22    
+
+ROLL = -7.16    PITCH = -11.01    
+
+ROLL = -6.89    PITCH = -10.91    
+
+ROLL = -6.32    PITCH = -10.73    
+
+ROLL = -6.02    PITCH = -10.63    
+
+ROLL = -5.40    PITCH = -10.45    
+
+ROLL = -5.08    PITCH = -10.36    
+
+ROLL = -4.42    PITCH = -10.19    
+
+ROLL = -4.08    PITCH = -10.10    
+
+ROLL = -3.40    PITCH = -9.94    
+
+ROLL = -2.71    PITCH = -9.77    
+
+ROLL = -2.36    PITCH = -9.69    
+
+ROLL = -1.67    PITCH = -9.52    
+
+ROLL = -1.33    PITCH = -9.43    
+
+ROLL = -0.67    PITCH = -9.20    
+
+ROLL = -0.34    PITCH = -9.07    
+
+ROLL = 0.30    PITCH = -8.80    
+
+ROLL = 0.61    PITCH = -8.65    
+
+ROLL = 1.22    PITCH = -8.33    
+
+ROLL = 1.51    PITCH = -8.15    
+
+ROLL = 2.09    PITCH = -7.78    
+
+ROLL = 2.38    PITCH = -7.59    
+
+ROLL = 2.95    PITCH = -7.19    
+
+ROLL = 3.23    PITCH = -6.97    
+
+ROLL = 3.79    PITCH = -6.54    
+
+ROLL = 4.06    PITCH = -6.34    
+
+ROLL = 4.34    PITCH = -6.13    
+
+ROLL = 4.89    PITCH = -5.68    
+
+ROLL = 5.16    PITCH = -5.45    
+
+ROLL = 5.72    PITCH = -4.99    
+
+ROLL = 6.00    PITCH = -4.76    
+
+ROLL = 6.55    PITCH = -4.27    
+
+ROLL = 6.84    PITCH = -4.03    
+
+ROLL = 7.42    PITCH = -3.53    
+
+ROLL = 7.72    PITCH = -3.29    
+
+ROLL = 8.32    PITCH = -2.83    
+
+ROLL = 8.63    PITCH = -2.61    
+
+ROLL = 9.27    PITCH = -2.15    
+
+ROLL = 9.61    PITCH = -1.87    
+
+ROLL = 10.34    PITCH = -1.24    
+
+ROLL = 10.72    PITCH = -0.93    
+
+ROLL = 11.42    PITCH = -0.42    
+
+ROLL = 11.75    PITCH = -0.19    
+
+ROLL = 12.56    PITCH = 0.17    
+
+ROLL = 12.97    PITCH = 0.49    
+
+ROLL = 13.80    PITCH = 1.24    
+
+ROLL = 14.19    PITCH = 1.54    
+
+ROLL = 14.93    PITCH = 2.07    
+
+ROLL = 15.35    PITCH = 2.37    
+
+ROLL = 16.19    PITCH = 2.93    
+
+ROLL = 16.64    PITCH = 3.23    
+
+ROLL = 17.52    PITCH = 3.82    
+
+ROLL = 17.95    PITCH = 4.10    
+
+ROLL = 18.39    PITCH = 4.33    
+
+ROLL = 19.24    PITCH = 4.76    
+
+ROLL = 19.65    PITCH = 4.96    
+
+ROLL = 20.47    PITCH = 5.36    
+
+ROLL = 20.87    PITCH = 5.53    
+
+ROLL = 21.61    PITCH = 5.79    
+
+ROLL = 22.00    PITCH = 5.88    
+
+ROLL = 22.79    PITCH = 6.15    
+
+ROLL = 23.19    PITCH = 6.31    
+
+ROLL = 23.95    PITCH = 6.59    
+
+ROLL = 24.33    PITCH = 6.70    
+
+ROLL = 25.10    PITCH = 6.93    
+
+ROLL = 25.47    PITCH = 7.04    
+
+ROLL = 26.18    PITCH = 7.24    
+
+ROLL = 26.53    PITCH = 7.34    
+
+ROLL = 27.20    PITCH = 7.55    
+
+ROLL = 27.53    PITCH = 7.67    
+
+ROLL = 28.19    PITCH = 7.93    
+
+ROLL = 28.51    PITCH = 8.06    
+
+ROLL = 29.16    PITCH = 8.33    
+
+ROLL = 29.48    PITCH = 8.47    
+
+ROLL = 29.80    PITCH = 8.61    
+
+ROLL = 30.44    PITCH = 8.88    
+
+ROLL = 30.75    PITCH = 9.01    
+
+ROLL = 31.36    PITCH = 9.27    
+
+ROLL = 31.65    PITCH = 9.40    
+
+ROLL = 32.22    PITCH = 9.63    
+
+ROLL = 32.49    PITCH = 9.73    
+
+ROLL = 32.98    PITCH = 9.92    
+
+ROLL = 33.22    PITCH = 10.01    
+
+ROLL = 33.70    PITCH = 10.17    
+
+ROLL = 33.93    PITCH = 10.24    
+
+ROLL = 34.36    PITCH = 10.41    
+
+ROLL = 34.56    PITCH = 10.51    
+
+ROLL = 34.95    PITCH = 10.68    
+
+ROLL = 35.13    PITCH = 10.75    
+
+ROLL = 35.44    PITCH = 10.88    
+
+ROLL = 35.58    PITCH = 10.94    
+
+ROLL = 35.83    PITCH = 11.03    
+
+ROLL = 35.94    PITCH = 11.07    
+
+ROLL = 36.14    PITCH = 11.14    
+
+ROLL = 36.23    PITCH = 11.19    
+
+ROLL = 36.40    PITCH = 11.27    
+
+ROLL = 36.55    PITCH = 11.35    
+
+ROLL = 36.61    PITCH = 11.40    
+
+ROLL = 36.73    PITCH = 11.50    
+
+ROLL = 36.78    PITCH = 11.54    
+
+ROLL = 36.87    PITCH = 11.64    
+
+ROLL = 36.91    PITCH = 11.69    
+
+ROLL = 36.97    PITCH = 11.80    
+
+ROLL = 36.99    PITCH = 11.85    
+
+ROLL = 37.03    PITCH = 11.96    
+
+ROLL = 37.04    PITCH = 12.02    
+
+ROLL = 37.05    PITCH = 12.13    
+
+ROLL = 37.05    PITCH = 12.19    
+
+ROLL = 37.03    PITCH = 12.30    
+
+ROLL = 37.01    PITCH = 12.35    
+
+ROLL = 36.95    PITCH = 12.44    
+
+ROLL = 36.92    PITCH = 12.47    
+
+ROLL = 36.85    PITCH = 12.54    
+
+ROLL = 36.82    PITCH = 12.57    
+
+ROLL = 36.75    PITCH = 12.62    
+
+ROLL = 36.72    PITCH = 12.63    
+
+ROLL = 36.65    PITCH = 12.66    
+
+ROLL = 36.61    PITCH = 12.67    
+
+ROLL = 36.54    PITCH = 12.66    
+
+ROLL = 36.51    PITCH = 12.66    
+
+ROLL = 36.44    PITCH = 12.63    
+
+ROLL = 36.37    PITCH = 12.58    
+
+ROLL = 36.34    PITCH = 12.55    
+
+ROLL = 36.27    PITCH = 12.49    
+
+ROLL = 36.24    PITCH = 12.45    
+
+ROLL = 36.17    PITCH = 12.38    
+
+ROLL = 36.14    PITCH = 12.34    
+
+ROLL = 36.07    PITCH = 12.26    
+
+ROLL = 36.04    PITCH = 12.22    
+
+ROLL = 35.97    PITCH = 12.12    
+
+ROLL = 35.93    PITCH = 12.07    
+
+ROLL = 35.86    PITCH = 11.97    
+
+ROLL = 35.83    PITCH = 11.92    
+
+ROLL = 35.76    PITCH = 11.82    
+
+ROLL = 35.73    PITCH = 11.77    
+
+ROLL = 35.66    PITCH = 11.68    
+
+ROLL = 35.63    PITCH = 11.63    
+
+ROLL = 35.56    PITCH = 11.54    
+
+ROLL = 35.52    PITCH = 11.49    
+
+ROLL = 35.43    PITCH = 11.41    
+
+ROLL = 35.39    PITCH = 11.37    
+
+ROLL = 35.30    PITCH = 11.30    
+
+ROLL = 35.25    PITCH = 11.26    
+
+ROLL = 35.15    PITCH = 11.20    
+
+ROLL = 35.11    PITCH = 11.17    
+
+ROLL = 35.00    PITCH = 11.11    
+
+ROLL = 34.95    PITCH = 11.08    
+
+ROLL = 34.84    PITCH = 11.03    
+
+ROLL = 34.74    PITCH = 10.97    
+
+ROLL = 34.68    PITCH = 10.95    
+
+ROLL = 34.57    PITCH = 10.90    
+
+ROLL = 34.51    PITCH = 10.88    
+
+ROLL = 34.39    PITCH = 10.83    
+
+ROLL = 34.32    PITCH = 10.81    
+
+ROLL = 34.20    PITCH = 10.76    
+
+ROLL = 34.13    PITCH = 10.74    
+
+ROLL = 34.01    PITCH = 10.68    
+
+ROLL = 33.94    PITCH = 10.66    
+
+ROLL = 33.82    PITCH = 10.60    
+
+ROLL = 33.75    PITCH = 10.57    
+
+ROLL = 33.63    PITCH = 10.50    
+
+ROLL = 33.57    PITCH = 10.47    
+
+ROLL = 33.45    PITCH = 10.40    
+
+ROLL = 33.39    PITCH = 10.37    
+
+ROLL = 33.27    PITCH = 10.30    
+
+ROLL = 33.22    PITCH = 10.26    
+
+ROLL = 33.09    PITCH = 10.19    
+
+ROLL = 33.03    PITCH = 10.15    
+
+ROLL = 32.91    PITCH = 10.07    
+
+ROLL = 32.85    PITCH = 10.02    
+
+ROLL = 32.73    PITCH = 9.94    
+
+ROLL = 32.67    PITCH = 9.90    
+
+ROLL = 32.55    PITCH = 9.81    
+
+ROLL = 32.50    PITCH = 9.76    
+
+ROLL = 32.40    PITCH = 9.67    
+
+ROLL = 32.36    PITCH = 9.62    
+
+ROLL = 32.26    PITCH = 9.54    
+
+ROLL = 32.21    PITCH = 9.50    
+
+ROLL = 32.11    PITCH = 9.42    
+
+ROLL = 32.05    PITCH = 9.38    
+
+ROLL = 31.94    PITCH = 9.32    
+
+ROLL = 31.88    PITCH = 9.28    
+
+ROLL = 31.75    PITCH = 9.22    
+
+ROLL = 31.68    PITCH = 9.19    
+
+ROLL = 31.53    PITCH = 9.12    
+
+ROLL = 31.46    PITCH = 9.09    
+
+ROLL = 31.30    PITCH = 9.02    
+
+ROLL = 31.22    PITCH = 8.98    
+
+ROLL = 31.04    PITCH = 8.90    
+
+ROLL = 30.94    PITCH = 8.86    
+
+ROLL = 30.84    PITCH = 8.81    
+
+ROLL = 30.63    PITCH = 8.71    
+
+ROLL = 30.52    PITCH = 8.66    
+
+ROLL = 30.30    PITCH = 8.53    
+
+ROLL = 30.19    PITCH = 8.46    
+
+ROLL = 29.96    PITCH = 8.31    
+
+ROLL = 29.85    PITCH = 8.24    
+
+ROLL = 29.60    PITCH = 8.09    
+
+ROLL = 29.48    PITCH = 8.02    
+
+ROLL = 29.22    PITCH = 7.86    
+
+ROLL = 29.08    PITCH = 7.79    
+
+ROLL = 28.80    PITCH = 7.64    
+
+ROLL = 28.66    PITCH = 7.56    
+
+ROLL = 28.36    PITCH = 7.41    
+
+ROLL = 28.21    PITCH = 7.34    
+
+ROLL = 27.90    PITCH = 7.18    
+
+ROLL = 27.75    PITCH = 7.11    
+
+ROLL = 27.42    PITCH = 6.95    
+
+ROLL = 27.25    PITCH = 6.87    
+
+ROLL = 27.07    PITCH = 6.78    
+
+ROLL = 26.71    PITCH = 6.61    
+
+ROLL = 26.53    PITCH = 6.52    
+
+ROLL = 26.14    PITCH = 6.34    
+
+ROLL = 25.95    PITCH = 6.25    
+
+ROLL = 25.55    PITCH = 6.05    
+
+ROLL = 25.34    PITCH = 5.96    
+
+ROLL = 24.92    PITCH = 5.75    
+
+ROLL = 24.70    PITCH = 5.65    
+
+ROLL = 24.27    PITCH = 5.44    
+
+ROLL = 24.04    PITCH = 5.34    
+
+ROLL = 23.59    PITCH = 5.13    
+
+ROLL = 23.35    PITCH = 5.02    
+
+ROLL = 22.88    PITCH = 4.82    
+
+ROLL = 22.65    PITCH = 4.71    
+
+ROLL = 22.17    PITCH = 4.51    
+
+ROLL = 21.94    PITCH = 4.41    
+
+ROLL = 21.46    PITCH = 4.21    
+
+ROLL = 21.22    PITCH = 4.12    
+
+ROLL = 20.71    PITCH = 3.93    
+
+ROLL = 20.46    PITCH = 3.83    
+
+ROLL = 20.20    PITCH = 3.73    
+
+ROLL = 19.66    PITCH = 3.51    
+
+ROLL = 19.39    PITCH = 3.39    
+
+ROLL = 18.84    PITCH = 3.16    
+
+ROLL = 18.57    PITCH = 3.03    
+
+ROLL = 18.02    PITCH = 2.76    
+
+ROLL = 17.74    PITCH = 2.63    
+
+ROLL = 17.17    PITCH = 2.35    
+
+ROLL = 16.89    PITCH = 2.21    
+
+ROLL = 16.32    PITCH = 1.92    
+
+ROLL = 16.02    PITCH = 1.77    
+
+ROLL = 15.42    PITCH = 1.46    
+
+ROLL = 15.12    PITCH = 1.30    
+
+ROLL = 14.51    PITCH = 0.96    
+
+ROLL = 14.21    PITCH = 0.78    
+
+ROLL = 13.59    PITCH = 0.38    
+
+ROLL = 13.28    PITCH = 0.18    
+
+ROLL = 12.66    PITCH = -0.23    
+
+ROLL = 12.34    PITCH = -0.44    
+
+ROLL = 11.70    PITCH = -0.88    
+
+ROLL = 11.38    PITCH = -1.10    
+
+ROLL = 10.73    PITCH = -1.54    
+
+ROLL = 10.41    PITCH = -1.78    
+
+ROLL = 9.77    PITCH = -2.26    
+
+ROLL = 9.44    PITCH = -2.49    
+
+ROLL = 8.76    PITCH = -2.94    
+
+ROLL = 8.41    PITCH = -3.18    
+
+ROLL = 7.73    PITCH = -3.64    
+
+ROLL = 7.39    PITCH = -3.85    
+
+ROLL = 6.70    PITCH = -4.26    
+
+ROLL = 6.34    PITCH = -4.48    
+
+ROLL = 5.98    PITCH = -4.70    
+
+ROLL = 5.24    PITCH = -5.12    
+
+ROLL = 4.88    PITCH = -5.32    
+
+ROLL = 4.17    PITCH = -5.70    
+
+ROLL = 3.82    PITCH = -5.88    
+
+ROLL = 3.10    PITCH = -6.26    
+
+ROLL = 2.74    PITCH = -6.44    
+
+ROLL = 2.04    PITCH = -6.83    
+
+ROLL = 1.69    PITCH = -7.02    
+
+ROLL = 0.99    PITCH = -7.41    
+
+ROLL = 0.65    PITCH = -7.60    
+
+ROLL = -0.04    PITCH = -7.98    
+
+ROLL = -0.37    PITCH = -8.17    
+
+ROLL = -1.03    PITCH = -8.58    
+
+ROLL = -1.36    PITCH = -8.78    
+
+ROLL = -2.03    PITCH = -9.20    
+
+ROLL = -2.35    PITCH = -9.42    
+
+ROLL = -3.01    PITCH = -9.88    
+
+ROLL = -3.35    PITCH = -10.11    
+
+ROLL = -4.02    PITCH = -10.58    
+
+ROLL = -4.36    PITCH = -10.83    
+
+ROLL = -5.07    PITCH = -11.32    
+
+ROLL = -5.74    PITCH = -11.70    
+
+ROLL = -6.07    PITCH = -12.01    
+
+ROLL = -6.78    PITCH = -12.60    
+
+ROLL = -7.10    PITCH = -12.87    
+
+ROLL = -7.74    PITCH = -13.36    
+
+ROLL = -8.05    PITCH = -13.60    
+
+ROLL = -8.69    PITCH = -14.08    
+
+ROLL = -9.30    PITCH = -14.54    
+
+ROLL = -9.59    PITCH = -14.77    
+
+ROLL = -10.17    PITCH = -15.19    
+
+ROLL = -10.48    PITCH = -15.40    
+
+ROLL = -11.10    PITCH = -15.81    
+
+ROLL = -11.40    PITCH = -16.00    
+
+ROLL = -11.97    PITCH = -16.33    
+
+ROLL = -12.53    PITCH = -16.63    
+
+ROLL = -12.80    PITCH = -16.77    
+
+ROLL = -13.33    PITCH = -17.04    
+
+ROLL = -13.86    PITCH = -17.29    
+
+ROLL = -14.12    PITCH = -17.40    
+
+ROLL = -14.64    PITCH = -17.63    
+
+ROLL = -14.90    PITCH = -17.73    
+
+ROLL = -15.41    PITCH = -17.91    
+
+ROLL = -15.91    PITCH = -18.07    
+
+ROLL = -16.16    PITCH = -18.14    
+
+ROLL = -16.65    PITCH = -18.26    
+
+ROLL = -16.89    PITCH = -18.32    
+
+ROLL = -17.38    PITCH = -18.42    
+
+ROLL = -17.86    PITCH = -18.51    
+
+ROLL = -18.10    PITCH = -18.56    
+
+ROLL = -18.58    PITCH = -18.63    
+
+ROLL = -18.82    PITCH = -18.66    
+
+ROLL = -19.30    PITCH = -18.71    
+
+ROLL = -19.77    PITCH = -18.75    
+
+ROLL = -20.00    PITCH = -18.76    
+
+ROLL = -20.44    PITCH = -18.78    
+
+ROLL = -20.66    PITCH = -18.79    
+
+ROLL = -21.10    PITCH = -18.79    
+
+ROLL = -21.51    PITCH = -18.78    
+
+ROLL = -21.71    PITCH = -18.76    
+
+ROLL = -22.09    PITCH = -18.73    
+
+ROLL = -22.27    PITCH = -18.72    
+
+ROLL = -22.63    PITCH = -18.68    
+
+ROLL = -22.95    PITCH = -18.64    
+
+ROLL = -23.11    PITCH = -18.62    
+
+ROLL = -23.41    PITCH = -18.57    
+
+ROLL = -23.55    PITCH = -18.55    
+
+ROLL = -23.82    PITCH = -18.49    
+
+ROLL = -24.05    PITCH = -18.44    
+
+ROLL = -24.15    PITCH = -18.41    
+
+ROLL = -24.32    PITCH = -18.36    
+
+ROLL = -24.47    PITCH = -18.29    
+
+ROLL = -24.54    PITCH = -18.26    
+
+ROLL = -24.65    PITCH = -18.22    
+
+ROLL = -24.69    PITCH = -18.19    
+
+ROLL = -24.75    PITCH = -18.14    
+
+ROLL = -24.79    PITCH = -18.11    
+
+ROLL = -24.80    PITCH = -18.10    
+
+ROLL = -24.81    PITCH = -18.07    
+
+ROLL = -24.81    PITCH = -18.07    
+
+ROLL = -24.80    PITCH = -18.06    
+
+ROLL = -24.78    PITCH = -18.07    
+
+ROLL = -24.76    PITCH = -18.07    
+
+ROLL = -24.73    PITCH = -18.09    
+
+ROLL = -24.72    PITCH = -18.11    
+
+ROLL = -24.68    PITCH = -18.14    
+
+ROLL = -24.63    PITCH = -18.16    
+
+ROLL = -24.60    PITCH = -18.18    
+
+ROLL = -24.54    PITCH = -18.20    
+
+ROLL = -24.50    PITCH = -18.21    
+
+ROLL = -24.42    PITCH = -18.23    
+
+ROLL = -24.33    PITCH = -18.24    
+
+ROLL = -24.28    PITCH = -18.24    
+
+ROLL = -24.17    PITCH = -18.24    
+
+ROLL = -24.11    PITCH = -18.23    
+
+ROLL = -23.99    PITCH = -18.21    
+
+ROLL = -23.86    PITCH = -18.17    
+
+ROLL = -23.79    PITCH = -18.15    
+
+ROLL = -23.66    PITCH = -18.11    
+
+ROLL = -23.59    PITCH = -18.07    
+
+ROLL = -23.45    PITCH = -18.01    
+
+ROLL = -23.30    PITCH = -17.94    
+
+ROLL = -23.23    PITCH = -17.91    
+
+ROLL = -23.08    PITCH = -17.84    
+
+ROLL = -22.93    PITCH = -17.77    
+
+ROLL = -22.86    PITCH = -17.74    
+
+ROLL = -22.71    PITCH = -17.66    
+
+ROLL = -22.64    PITCH = -17.63    
+
+ROLL = -22.51    PITCH = -17.56    
+
+ROLL = -22.37    PITCH = -17.49    
+
+ROLL = -22.31    PITCH = -17.45    
+
+ROLL = -22.17    PITCH = -17.38    
+
+ROLL = -22.10    PITCH = -17.34    
+
+ROLL = -21.96    PITCH = -17.25    
+
+ROLL = -21.83    PITCH = -17.17    
+
+ROLL = -21.77    PITCH = -17.13    
+
+ROLL = -21.63    PITCH = -17.05    
+
+ROLL = -21.57    PITCH = -17.01    
+
+ROLL = -21.43    PITCH = -16.92    
+
+ROLL = -21.29    PITCH = -16.83    
+
+ROLL = -21.22    PITCH = -16.79    
+
+ROLL = -21.09    PITCH = -16.71    
+
+ROLL = -21.02    PITCH = -16.67    
+
+ROLL = -20.87    PITCH = -16.59    
+
+ROLL = -20.73    PITCH = -16.51    
+
+ROLL = -20.65    PITCH = -16.47    
+
+ROLL = -20.51    PITCH = -16.39    
+
+ROLL = -20.43    PITCH = -16.35    
+
+ROLL = -20.28    PITCH = -16.28    
+
+ROLL = -20.13    PITCH = -16.21    
+
+ROLL = -20.06    PITCH = -16.18    
+
+ROLL = -19.90    PITCH = -16.12    
+
+ROLL = -19.82    PITCH = -16.09    
+
+ROLL = -19.67    PITCH = -16.03    
+
+ROLL = -19.50    PITCH = -15.98    
+
+ROLL = -19.42    PITCH = -15.96    
+
+ROLL = -19.25    PITCH = -15.91    
+
+ROLL = -19.17    PITCH = -15.89    
+
+ROLL = -19.00    PITCH = -15.85    
+
+ROLL = -18.84    PITCH = -15.81    
+
+ROLL = -18.76    PITCH = -15.78    
+
+ROLL = -18.60    PITCH = -15.72    
+
+ROLL = -18.44    PITCH = -15.66    
+
+ROLL = -18.36    PITCH = -15.62    
+
+ROLL = -18.20    PITCH = -15.54    
+
+ROLL = -18.12    PITCH = -15.50    
+
+ROLL = -17.96    PITCH = -15.41    
+
+ROLL = -17.81    PITCH = -15.32    
+
+ROLL = -17.74    PITCH = -15.27    
+
+ROLL = -17.58    PITCH = -15.16    
+
+ROLL = -17.49    PITCH = -15.09    
+
+ROLL = -17.33    PITCH = -14.97    
+
+ROLL = -17.15    PITCH = -14.84    
+
+ROLL = -17.05    PITCH = -14.78    
+
+ROLL = -16.85    PITCH = -14.66    
+
+ROLL = -16.75    PITCH = -14.61    
+
+ROLL = -16.54    PITCH = -14.50    
+
+ROLL = -16.30    PITCH = -14.38    
+
+ROLL = -16.18    PITCH = -14.32    
+
+ROLL = -15.91    PITCH = -14.19    
+
+ROLL = -15.77    PITCH = -14.14    
+
+ROLL = -15.47    PITCH = -14.00    
+
+ROLL = -15.13    PITCH = -13.83    
+
+ROLL = -14.96    PITCH = -13.74    
+
+ROLL = -14.60    PITCH = -13.57    
+
+ROLL = -14.41    PITCH = -13.49    
+
+ROLL = -14.04    PITCH = -13.34    
+
+ROLL = -13.65    PITCH = -13.21    
+
+ROLL = -13.46    PITCH = -13.14    
+
+ROLL = -13.04    PITCH = -13.00    
+
+ROLL = -12.83    PITCH = -12.93    
+
+ROLL = -12.39    PITCH = -12.79    
+
+ROLL = -11.92    PITCH = -12.64    
+
+ROLL = -11.68    PITCH = -12.57    
+
+ROLL = -11.16    PITCH = -12.42    
+
+ROLL = -10.64    PITCH = -12.28    
+
+ROLL = -10.36    PITCH = -12.21    
+
+ROLL = -9.79    PITCH = -12.07    
+
+ROLL = -9.49    PITCH = -11.99    
+
+ROLL = -8.87    PITCH = -11.84    
+
+ROLL = -8.55    PITCH = -11.76    
+
+ROLL = -7.90    PITCH = -11.60    
+
+ROLL = -7.23    PITCH = -11.43    
+
+ROLL = -6.89    PITCH = -11.35    
+
+ROLL = -6.20    PITCH = -11.19    
+
+ROLL = -5.86    PITCH = -11.11    
+
+ROLL = -5.18    PITCH = -10.94    
+
+ROLL = -4.84    PITCH = -10.86    
+
+ROLL = -4.16    PITCH = -10.68    
+
+ROLL = -3.83    PITCH = -10.61    
+
+ROLL = -3.16    PITCH = -10.52    
+
+ROLL = -2.52    PITCH = -10.34    
+
+ROLL = -2.19    PITCH = -10.21    
+
+ROLL = -1.53    PITCH = -10.01    
+
+ROLL = -1.19    PITCH = -9.93    
+
+ROLL = -0.56    PITCH = -9.70    
+
+ROLL = -0.24    PITCH = -9.57    
+
+ROLL = 0.40    PITCH = -9.35    
+
+ROLL = 0.72    PITCH = -9.25    
+
+ROLL = 1.34    PITCH = -9.04    
+
+ROLL = 1.65    PITCH = -8.91    
+
+ROLL = 2.27    PITCH = -8.68    
+
+ROLL = 2.57    PITCH = -8.57    
+
+ROLL = 3.15    PITCH = -8.32    
+
+ROLL = 3.43    PITCH = -8.19    
+
+ROLL = 3.99    PITCH = -7.94    
+
+ROLL = 4.26    PITCH = -7.81    
+
+ROLL = 4.78    PITCH = -7.55    
+
+ROLL = 5.03    PITCH = -7.41    
+
+ROLL = 5.52    PITCH = -7.15    
+
+ROLL = 5.77    PITCH = -7.03    
+
+ROLL = 6.22    PITCH = -6.71    
+
+ROLL = 6.45    PITCH = -6.49    
+
+ROLL = 6.68    PITCH = -6.27    
+
+ROLL = 7.15    PITCH = -5.89    
+
+ROLL = 7.37    PITCH = -5.70    
+
+ROLL = 7.78    PITCH = -5.26    
+
+ROLL = 8.00    PITCH = -5.01    
+
+ROLL = 8.46    PITCH = -4.56    
+
+ROLL = 8.70    PITCH = -4.34    
+
+ROLL = 9.17    PITCH = -3.87    
+
+ROLL = 9.41    PITCH = -3.63    
+
+ROLL = 9.93    PITCH = -3.14    
+
+ROLL = 10.21    PITCH = -2.90    
+
+ROLL = 10.82    PITCH = -2.36    
+
+ROLL = 11.10    PITCH = -2.07    
+
+ROLL = 11.63    PITCH = -1.60    
+
+ROLL = 11.95    PITCH = -1.51    
+
+ROLL = 12.57    PITCH = -1.14    
+
+ROLL = 12.89    PITCH = -0.85    
+
+ROLL = 13.49    PITCH = -0.35    
+
+ROLL = 13.74    PITCH = -0.16    
+
+ROLL = 14.33    PITCH = 0.18    
+
+ROLL = 14.66    PITCH = 0.38    
+
+ROLL = 15.23    PITCH = 0.82    
+
+ROLL = 15.51    PITCH = 1.07    
+
+ROLL = 15.98    PITCH = 1.55    
+
+ROLL = 16.25    PITCH = 1.77    
+
+ROLL = 16.78    PITCH = 2.19    
+
+ROLL = 17.02    PITCH = 2.40    
+
+ROLL = 17.45    PITCH = 2.86    
+
+ROLL = 17.66    PITCH = 3.10    
+
+ROLL = 18.10    PITCH = 3.59    
+
+ROLL = 18.32    PITCH = 3.82    
+
+ROLL = 18.78    PITCH = 4.27    
+
+ROLL = 19.02    PITCH = 4.50    
+
+ROLL = 19.51    PITCH = 4.94    
+
+ROLL = 19.78    PITCH = 5.14    
+
+ROLL = 20.32    PITCH = 5.49    
+
+ROLL = 20.59    PITCH = 5.68    
+
+ROLL = 20.87    PITCH = 5.89    
+
+ROLL = 21.42    PITCH = 6.32    
+
+ROLL = 21.70    PITCH = 6.51    
+
+ROLL = 22.28    PITCH = 6.86    
+
+ROLL = 22.57    PITCH = 7.05    
+
+ROLL = 23.16    PITCH = 7.39    
+
+ROLL = 23.46    PITCH = 7.54    
+
+ROLL = 24.06    PITCH = 7.83    
+
+ROLL = 24.36    PITCH = 7.97    
+
+ROLL = 24.93    PITCH = 8.25    
+
+ROLL = 25.21    PITCH = 8.39    
+
+ROLL = 25.76    PITCH = 8.64    
+
+ROLL = 26.04    PITCH = 8.75    
+
+ROLL = 26.57    PITCH = 8.95    
+
+ROLL = 26.83    PITCH = 9.05    
+
+ROLL = 27.32    PITCH = 9.26    
+
+ROLL = 27.55    PITCH = 9.35    
+
+ROLL = 27.99    PITCH = 9.51    
+
+ROLL = 28.20    PITCH = 9.58    
+
+ROLL = 28.40    PITCH = 9.65    
+
+ROLL = 28.79    PITCH = 9.78    
+
+ROLL = 28.98    PITCH = 9.83    
+
+ROLL = 29.35    PITCH = 9.94    
+
+ROLL = 29.52    PITCH = 9.99    
+
+ROLL = 29.85    PITCH = 10.08    
+
+ROLL = 30.00    PITCH = 10.11    
+
+ROLL = 30.31    PITCH = 10.18    
+
+ROLL = 30.45    PITCH = 10.21    
+
+ROLL = 30.74    PITCH = 10.26    
+
+ROLL = 30.88    PITCH = 10.28    
+
+ROLL = 31.14    PITCH = 10.32    
+
+ROLL = 31.37    PITCH = 10.35    
+
+ROLL = 31.47    PITCH = 10.37    
+
+ROLL = 31.65    PITCH = 10.39    
+
+ROLL = 31.73    PITCH = 10.40    
+
+ROLL = 31.85    PITCH = 10.41    
+
+ROLL = 31.91    PITCH = 10.42    
+
+ROLL = 31.99    PITCH = 10.43    
+
+ROLL = 32.02    PITCH = 10.43    
+
+ROLL = 32.06    PITCH = 10.45    
+
+ROLL = 32.07    PITCH = 10.45    
+
+ROLL = 32.08    PITCH = 10.48    
+
+ROLL = 32.07    PITCH = 10.49    
+
+ROLL = 32.05    PITCH = 10.51    
+
+ROLL = 32.03    PITCH = 10.52    
+
+ROLL = 31.98    PITCH = 10.54    
+
+ROLL = 31.95    PITCH = 10.56    
+
+ROLL = 31.88    PITCH = 10.59    
+
+ROLL = 31.84    PITCH = 10.60    
+
+ROLL = 31.76    PITCH = 10.63    
+
+ROLL = 31.72    PITCH = 10.64    
+
+ROLL = 31.62    PITCH = 10.64    
+
+ROLL = 31.57    PITCH = 10.63    
+
+ROLL = 31.47    PITCH = 10.62    
+
+ROLL = 31.42    PITCH = 10.61    
+
+ROLL = 31.32    PITCH = 10.59    
+
+ROLL = 31.26    PITCH = 10.59    
+
+ROLL = 31.16    PITCH = 10.56    
+
+ROLL = 31.06    PITCH = 10.53    
+
+ROLL = 31.00    PITCH = 10.51    
+
+ROLL = 30.90    PITCH = 10.47    
+
+ROLL = 30.85    PITCH = 10.45    
+
+ROLL = 30.75    PITCH = 10.40    
+
+ROLL = 30.70    PITCH = 10.38    
+
+ROLL = 30.61    PITCH = 10.34    
+
+ROLL = 30.57    PITCH = 10.33    
+
+ROLL = 30.49    PITCH = 10.30    
+
+ROLL = 30.46    PITCH = 10.29    
+
+ROLL = 30.38    PITCH = 10.26    
+
+ROLL = 30.34    PITCH = 10.24    
+
+ROLL = 30.26    PITCH = 10.20    
+
+ROLL = 30.22    PITCH = 10.18    
+
+ROLL = 30.14    PITCH = 10.14    
+
+ROLL = 30.10    PITCH = 10.11    
+
+ROLL = 30.03    PITCH = 10.04    
+
+ROLL = 30.00    PITCH = 10.01    
+
+ROLL = 29.93    PITCH = 9.93    
+
+ROLL = 29.90    PITCH = 9.90    
+
+ROLL = 29.84    PITCH = 9.82    
+
+ROLL = 29.81    PITCH = 9.78    
+
+ROLL = 29.75    PITCH = 9.70    
+
+ROLL = 29.73    PITCH = 9.65    
+
+ROLL = 29.68    PITCH = 9.57    
+
+ROLL = 29.65    PITCH = 9.53    
+
+ROLL = 29.62    PITCH = 9.45    
+
+ROLL = 29.60    PITCH = 9.41    
+
+ROLL = 29.55    PITCH = 9.34    
+
+ROLL = 29.53    PITCH = 9.31    
+
+ROLL = 29.49    PITCH = 9.26    
+
+ROLL = 29.47    PITCH = 9.24    
+
+ROLL = 29.45    PITCH = 9.20    
+
+ROLL = 29.43    PITCH = 9.18    
+
+ROLL = 29.42    PITCH = 9.16    
+
+ROLL = 29.39    PITCH = 9.13    
+
+ROLL = 29.38    PITCH = 9.11    
+
+ROLL = 29.35    PITCH = 9.08    
+
+ROLL = 29.33    PITCH = 9.06    
+
+ROLL = 29.30    PITCH = 9.03    
+
+ROLL = 29.28    PITCH = 9.01    
+
+ROLL = 29.24    PITCH = 8.99    
+
+ROLL = 29.21    PITCH = 8.98    
+
+ROLL = 29.15    PITCH = 8.96    
+
+ROLL = 29.12    PITCH = 8.95    
+
+ROLL = 29.06    PITCH = 8.94    
+
+ROLL = 29.03    PITCH = 8.94    
+
+ROLL = 28.96    PITCH = 8.93    
+
+ROLL = 28.92    PITCH = 8.93    
+
+ROLL = 28.84    PITCH = 8.93    
+
+ROLL = 28.80    PITCH = 8.92    
+
+ROLL = 28.70    PITCH = 8.92    
+
+ROLL = 28.65    PITCH = 8.92    
+
+ROLL = 28.55    PITCH = 8.92    
+
+ROLL = 28.49    PITCH = 8.92    
+
+ROLL = 28.44    PITCH = 8.92    
+
+ROLL = 28.31    PITCH = 8.90    
+
+ROLL = 28.25    PITCH = 8.89    
+
+ROLL = 28.11    PITCH = 8.87    
+
+ROLL = 28.04    PITCH = 8.87    
+
+ROLL = 27.89    PITCH = 8.85    
+
+ROLL = 27.81    PITCH = 8.85    
+
+ROLL = 27.67    PITCH = 8.85    
+
+ROLL = 27.59    PITCH = 8.85    
+
+ROLL = 27.44    PITCH = 8.85    
+
+ROLL = 27.35    PITCH = 8.85    
+
+ROLL = 27.14    PITCH = 8.84    
+
+ROLL = 27.04    PITCH = 8.83    
+
+ROLL = 26.80    PITCH = 8.80    
+
+ROLL = 26.68    PITCH = 8.78    
+
+ROLL = 26.42    PITCH = 8.73    
+
+ROLL = 26.28    PITCH = 8.70    
+
+ROLL = 26.01    PITCH = 8.64    
+
+ROLL = 25.86    PITCH = 8.61    
+
+ROLL = 25.70    PITCH = 8.57    
+
+ROLL = 25.39    PITCH = 8.48    
+
+ROLL = 25.22    PITCH = 8.43    
+
+ROLL = 24.87    PITCH = 8.31    
+
+ROLL = 24.68    PITCH = 8.25    
+
+ROLL = 24.31    PITCH = 8.10    
+
+ROLL = 24.11    PITCH = 8.03    
+
+ROLL = 23.71    PITCH = 7.84    
+
+ROLL = 23.50    PITCH = 7.74    
+
+ROLL = 23.08    PITCH = 7.54    
+
+ROLL = 22.86    PITCH = 7.43    
+
+ROLL = 22.41    PITCH = 7.21    
+
+ROLL = 22.18    PITCH = 7.09    
+
+ROLL = 21.71    PITCH = 6.87    
+
+ROLL = 21.47    PITCH = 6.76    
+
+ROLL = 20.97    PITCH = 6.54    
+
+ROLL = 20.72    PITCH = 6.43    
+
+ROLL = 20.19    PITCH = 6.20    
+
+ROLL = 19.91    PITCH = 6.08    
+
+ROLL = 19.34    PITCH = 5.84    
+
+ROLL = 19.04    PITCH = 5.72    
+
+ROLL = 18.74    PITCH = 5.60    
+
+ROLL = 18.12    PITCH = 5.35    
+
+ROLL = 17.79    PITCH = 5.22    
+
+ROLL = 17.14    PITCH = 4.96    
+
+ROLL = 16.81    PITCH = 4.83    
+
+ROLL = 16.14    PITCH = 4.55    
+
+ROLL = 15.80    PITCH = 4.40    
+
+ROLL = 15.10    PITCH = 4.11    
+
+ROLL = 14.75    PITCH = 3.96    
+
+ROLL = 14.04    PITCH = 3.64    
+
+ROLL = 13.68    PITCH = 3.47    
+
+ROLL = 12.96    PITCH = 3.13    
+
+ROLL = 12.60    PITCH = 2.97    
+
+ROLL = 11.88    PITCH = 2.64    
+
+ROLL = 11.52    PITCH = 2.47    
+
+ROLL = 10.82    PITCH = 2.13    
+
+ROLL = 10.47    PITCH = 1.97    
+
+ROLL = 9.76    PITCH = 1.63    
+
+ROLL = 9.40    PITCH = 1.46    
+
+ROLL = 9.05    PITCH = 1.28    
+
+ROLL = 8.35    PITCH = 0.92    
+
+ROLL = 8.00    PITCH = 0.74    
+
+ROLL = 7.30    PITCH = 0.37    
+
+ROLL = 6.96    PITCH = 0.19    
+
+ROLL = 6.28    PITCH = -0.19    
+
+ROLL = 5.94    PITCH = -0.37    
+
+ROLL = 5.26    PITCH = -0.74    
+
+ROLL = 4.92    PITCH = -0.93    
+
+ROLL = 4.23    PITCH = -1.31    
+
+ROLL = 3.89    PITCH = -1.51    
+
+ROLL = 3.54    PITCH = -1.71    
+
+ROLL = 2.86    PITCH = -2.11    
+
+ROLL = 2.52    PITCH = -2.30    
+
+ROLL = 1.85    PITCH = -2.70    
+
+ROLL = 1.51    PITCH = -2.90    
+
+ROLL = 0.86    PITCH = -3.33    
+
+ROLL = 0.55    PITCH = -3.54    
+
+ROLL = -0.06    PITCH = -3.99    
+
+ROLL = -0.37    PITCH = -4.22    
+
+ROLL = -0.98    PITCH = -4.69    
+
+ROLL = -1.28    PITCH = -4.94    
+
+ROLL = -1.86    PITCH = -5.46    
+
+ROLL = -2.15    PITCH = -5.72    
+
+ROLL = -2.74    PITCH = -6.27    
+
+ROLL = -3.03    PITCH = -6.57    
+
+ROLL = -3.60    PITCH = -7.18    
+
+ROLL = -3.90    PITCH = -7.51    
+
+ROLL = -4.50    PITCH = -8.07    
+
+ROLL = -4.83    PITCH = -8.33    
+
+ROLL = -5.36    PITCH = -9.06    
+
+ROLL = -5.90    PITCH = -9.75    
+
+ROLL = -6.16    PITCH = -10.04    
+
+ROLL = -6.67    PITCH = -10.59    
+
+ROLL = -6.91    PITCH = -10.86    
+
+ROLL = -7.36    PITCH = -11.38    
+
+ROLL = -7.55    PITCH = -11.63    
+
+ROLL = -7.91    PITCH = -12.09    
+
+ROLL = -8.13    PITCH = -12.33    
+
+ROLL = -8.58    PITCH = -12.80    
+
+ROLL = -8.97    PITCH = -13.24    
+
+ROLL = -9.15    PITCH = -13.44    
+
+ROLL = -9.55    PITCH = -13.86    
+
+ROLL = -9.76    PITCH = -14.07    
+
+ROLL = -10.16    PITCH = -14.46    
+
+ROLL = -10.37    PITCH = -14.65    
+
+ROLL = -10.79    PITCH = -15.05    
+
+ROLL = -11.22    PITCH = -15.44    
+
+ROLL = -11.43    PITCH = -15.62    
+
+ROLL = -11.86    PITCH = -15.98    
+
+ROLL = -12.08    PITCH = -16.15    
+
+ROLL = -12.49    PITCH = -16.49    
+
+ROLL = -12.90    PITCH = -16.80    
+
+ROLL = -13.11    PITCH = -16.95    
+
+ROLL = -13.51    PITCH = -17.24    
+
+ROLL = -13.71    PITCH = -17.38    
+
+ROLL = -14.08    PITCH = -17.62    
+
+ROLL = -14.43    PITCH = -17.84    
+
+ROLL = -14.60    PITCH = -17.93    
+
+ROLL = -14.91    PITCH = -18.09    
+
+ROLL = -15.06    PITCH = -18.15    
+
+ROLL = -15.36    PITCH = -18.27    
+
+ROLL = -15.65    PITCH = -18.35    
+
+ROLL = -15.79    PITCH = -18.39    
+
+ROLL = -16.09    PITCH = -18.44    
+
+ROLL = -16.39    PITCH = -18.49    
+
+ROLL = -16.55    PITCH = -18.50    
+
+ROLL = -16.86    PITCH = -18.53    
+
+ROLL = -17.02    PITCH = -18.54    
+
+ROLL = -17.35    PITCH = -18.56    
+
+ROLL = -17.70    PITCH = -18.57    
+
+ROLL = -17.87    PITCH = -18.57    
+
+ROLL = -18.24    PITCH = -18.59    
+
+ROLL = -18.42    PITCH = -18.59    
+
+ROLL = -18.78    PITCH = -18.58    
+
+ROLL = -19.12    PITCH = -18.55    
+
+ROLL = -19.29    PITCH = -18.54    
+
+ROLL = -19.60    PITCH = -18.49    
+
+ROLL = -19.75    PITCH = -18.46    
+
+ROLL = -20.02    PITCH = -18.39    
+
+ROLL = -20.27    PITCH = -18.30    
+
+ROLL = -20.38    PITCH = -18.26    
+
+ROLL = -20.58    PITCH = -18.17    
+
+ROLL = -20.67    PITCH = -18.12    
+
+ROLL = -20.83    PITCH = -18.01    
+
+ROLL = -20.96    PITCH = -17.91    
+
+ROLL = -21.03    PITCH = -17.87    
+
+ROLL = -21.14    PITCH = -17.76    
+
+ROLL = -21.19    PITCH = -17.71    
+
+ROLL = -21.28    PITCH = -17.62    
+
+ROLL = -21.36    PITCH = -17.53    
+
+ROLL = -21.39    PITCH = -17.48    
+
+ROLL = -21.44    PITCH = -17.41    
+
+ROLL = -21.46    PITCH = -17.37    
+
+ROLL = -21.49    PITCH = -17.31    
+
+ROLL = -21.51    PITCH = -17.26    
+
+ROLL = -21.52    PITCH = -17.23    
+
+ROLL = -21.52    PITCH = -17.18    
+
+ROLL = -21.51    PITCH = -17.13    
+
+ROLL = -21.50    PITCH = -17.11    
+
+ROLL = -21.47    PITCH = -17.07    
+
+ROLL = -21.46    PITCH = -17.05    
+
+ROLL = -21.42    PITCH = -17.00    
+
+ROLL = -21.36    PITCH = -16.96    
+
+ROLL = -21.33    PITCH = -16.93    
+
+ROLL = -21.24    PITCH = -16.87    
+
+ROLL = -21.19    PITCH = -16.83    
+
+ROLL = -21.08    PITCH = -16.77    
+
+ROLL = -20.94    PITCH = -16.69    
+
+ROLL = -20.87    PITCH = -16.65    
+
+ROLL = -20.72    PITCH = -16.56    
+
+ROLL = -20.63    PITCH = -16.52    
+
+ROLL = -20.45    PITCH = -16.44    
+
+ROLL = -20.26    PITCH = -16.35    
+
+ROLL = -20.16    PITCH = -16.30    
+
+ROLL = -19.96    PITCH = -16.21    
+
+ROLL = -19.85    PITCH = -16.17    
+
+ROLL = -19.64    PITCH = -16.09    
+
+ROLL = -19.42    PITCH = -16.02    
+
+ROLL = -19.31    PITCH = -15.98    
+
+ROLL = -19.08    PITCH = -15.91    
+
+ROLL = -18.96    PITCH = -15.86    
+
+ROLL = -18.71    PITCH = -15.76    
+
+ROLL = -18.46    PITCH = -15.68    
+
+ROLL = -18.33    PITCH = -15.64    
+
+ROLL = -18.09    PITCH = -15.57    
+
+ROLL = -17.96    PITCH = -15.55    
+
+ROLL = -17.71    PITCH = -15.51    
+
+ROLL = -17.46    PITCH = -15.46    
+
+ROLL = -17.34    PITCH = -15.44    
+
+ROLL = -17.08    PITCH = -15.40    
+
+ROLL = -16.83    PITCH = -15.36    
+
+ROLL = -16.70    PITCH = -15.35    
+
+ROLL = -16.45    PITCH = -15.31    
+
+ROLL = -16.33    PITCH = -15.29    
+
+ROLL = -16.08    PITCH = -15.26    
+
+ROLL = -15.84    PITCH = -15.23    
+
+ROLL = -15.72    PITCH = -15.21    
+
+ROLL = -15.49    PITCH = -15.18    
+
+ROLL = -15.37    PITCH = -15.16    
+
+ROLL = -15.14    PITCH = -15.12    
+
+ROLL = -14.92    PITCH = -15.08    
+
+ROLL = -14.81    PITCH = -15.06    
+
+ROLL = -14.60    PITCH = -15.01    
+
+ROLL = -14.50    PITCH = -14.99    
+
+ROLL = -14.31    PITCH = -14.95    
+
+ROLL = -14.12    PITCH = -14.90    
+
+ROLL = -14.03    PITCH = -14.87    
+
+ROLL = -13.85    PITCH = -14.80    
+
+ROLL = -13.76    PITCH = -14.76    
+
+ROLL = -13.59    PITCH = -14.67    
+
+ROLL = -13.44    PITCH = -14.59    
+
+ROLL = -13.36    PITCH = -14.54    
+
+ROLL = -13.21    PITCH = -14.46    
+
+ROLL = -13.14    PITCH = -14.40    
+
+ROLL = -12.99    PITCH = -14.27    
+
+ROLL = -12.84    PITCH = -14.14    
+
+ROLL = -12.76    PITCH = -14.08    
+
+ROLL = -12.62    PITCH = -13.94    
+
+ROLL = -12.55    PITCH = -13.88    
+
+ROLL = -12.42    PITCH = -13.76    
+
+ROLL = -12.27    PITCH = -13.63    
+
+ROLL = -12.20    PITCH = -13.56    
+
+ROLL = -12.06    PITCH = -13.43    
+
+ROLL = -11.91    PITCH = -13.30    
+
+ROLL = -11.83    PITCH = -13.23    
+
+ROLL = -11.67    PITCH = -13.09    
+
+ROLL = -11.59    PITCH = -13.00    
+
+ROLL = -11.41    PITCH = -12.82    
+
+ROLL = -11.22    PITCH = -12.66    
+
+ROLL = -11.12    PITCH = -12.57    
+
+ROLL = -10.90    PITCH = -12.34    
+
+ROLL = -10.78    PITCH = -12.22    
+
+ROLL = -10.53    PITCH = -11.99    
+
+ROLL = -10.29    PITCH = -11.75    
+
+ROLL = -10.15    PITCH = -11.63    
+
+ROLL = -9.89    PITCH = -11.43    
+
+ROLL = -9.76    PITCH = -11.33    
+
+ROLL = -9.48    PITCH = -11.14    
+
+ROLL = -9.33    PITCH = -11.04    
+
+ROLL = -9.01    PITCH = -10.85    
+
+ROLL = -8.68    PITCH = -10.66    
+
+ROLL = -8.51    PITCH = -10.57    
+
+ROLL = -8.15    PITCH = -10.36    
+
+ROLL = -7.96    PITCH = -10.27    
+
+ROLL = -7.57    PITCH = -10.06    
+
+ROLL = -7.37    PITCH = -9.96    
+
+ROLL = -6.95    PITCH = -9.75    
+
+ROLL = -6.74    PITCH = -9.64    
+
+ROLL = -6.30    PITCH = -9.43    
+
+ROLL = -6.08    PITCH = -9.32    
+
+ROLL = -5.62    PITCH = -9.12    
+
+ROLL = -5.13    PITCH = -8.98    
+
+ROLL = -4.88    PITCH = -8.92    
+
+ROLL = -4.37    PITCH = -8.65    
+
+ROLL = -4.09    PITCH = -8.49    
+
+ROLL = -3.52    PITCH = -8.24    
+
+ROLL = -3.22    PITCH = -8.10    
+
+ROLL = -2.63    PITCH = -7.80    
+
+ROLL = -2.32    PITCH = -7.65    
+
+ROLL = -1.68    PITCH = -7.39    
+
+ROLL = -1.36    PITCH = -7.27    
+
+ROLL = -0.71    PITCH = -7.00    
+
+ROLL = -0.39    PITCH = -6.87    
+
+ROLL = 0.27    PITCH = -6.64    
+
+ROLL = 0.61    PITCH = -6.53    
+
+ROLL = 1.28    PITCH = -6.28    
+
+ROLL = 1.62    PITCH = -6.17    
+
+ROLL = 2.30    PITCH = -5.94    
+
+ROLL = 2.65    PITCH = -5.83    
+
+ROLL = 3.33    PITCH = -5.59    
+
+ROLL = 3.68    PITCH = -5.47    
+
+ROLL = 4.36    PITCH = -5.23    
+
+ROLL = 4.69    PITCH = -5.12    
+
+ROLL = 5.36    PITCH = -4.87    
+
+ROLL = 5.69    PITCH = -4.74    
+
+ROLL = 6.02    PITCH = -4.61    
+
+ROLL = 6.68    PITCH = -4.36    
+
+ROLL = 7.00    PITCH = -4.23    
+
+ROLL = 7.65    PITCH = -4.03    
+
+ROLL = 7.98    PITCH = -3.92    
+
+ROLL = 8.63    PITCH = -3.54    
+
+ROLL = 8.97    PITCH = -3.29    
+
+ROLL = 9.65    PITCH = -2.86    
+
+ROLL = 9.98    PITCH = -2.67    
+
+ROLL = 10.64    PITCH = -2.23    
+
+ROLL = 11.01    PITCH = -1.93    
+
+ROLL = 11.73    PITCH = -1.39    
+
+ROLL = 12.02    PITCH = -1.14    
+
+ROLL = 12.73    PITCH = -0.63    
+
+ROLL = 13.14    PITCH = -0.39    
+
+ROLL = 13.91    PITCH = 0.17    
+
+ROLL = 14.26    PITCH = 0.38    
+
+ROLL = 14.94    PITCH = 0.78    
+
+ROLL = 15.28    PITCH = 1.02    
+
+ROLL = 16.01    PITCH = 1.60    
+
+ROLL = 16.33    PITCH = 1.90    
+
+ROLL = 17.01    PITCH = 2.50    
+
+ROLL = 17.38    PITCH = 2.78    
+
+ROLL = 18.16    PITCH = 3.27    
+
+ROLL = 18.53    PITCH = 3.53    
+
+ROLL = 19.22    PITCH = 4.12    
+
+ROLL = 19.55    PITCH = 4.41    
+
+ROLL = 20.23    PITCH = 4.90    
+
+ROLL = 20.54    PITCH = 5.11    
+
+ROLL = 21.10    PITCH = 5.52    
+
+ROLL = 21.37    PITCH = 5.69    
+
+ROLL = 21.66    PITCH = 5.84    
+
+ROLL = 22.25    PITCH = 6.08    
+
+ROLL = 22.54    PITCH = 6.23    
+
+ROLL = 23.08    PITCH = 6.57    
+
+ROLL = 23.33    PITCH = 6.70    
+
+ROLL = 23.83    PITCH = 6.91    
+
+ROLL = 24.06    PITCH = 7.02    
+
+ROLL = 24.51    PITCH = 7.23    
+
+ROLL = 24.73    PITCH = 7.32    
+
+ROLL = 25.16    PITCH = 7.46    
+
+ROLL = 25.38    PITCH = 7.54    
+
+ROLL = 25.79    PITCH = 7.71    
+
+ROLL = 25.99    PITCH = 7.79    
+
+ROLL = 26.42    PITCH = 7.93    
+
+ROLL = 26.62    PITCH = 8.00    
+
+ROLL = 27.03    PITCH = 8.16    
+
+ROLL = 27.23    PITCH = 8.24    
+
+ROLL = 27.62    PITCH = 8.39    
+
+ROLL = 27.82    PITCH = 8.47    
+
+ROLL = 28.01    PITCH = 8.56    
+
+ROLL = 28.39    PITCH = 8.74    
+
+ROLL = 28.58    PITCH = 8.83    
+
+ROLL = 28.95    PITCH = 9.01    
+
+ROLL = 29.12    PITCH = 9.10    
+
+ROLL = 29.47    PITCH = 9.28    
+
+ROLL = 29.63    PITCH = 9.37    
+
+ROLL = 29.94    PITCH = 9.54    
+
+ROLL = 30.08    PITCH = 9.61    
+
+ROLL = 30.35    PITCH = 9.77    
+
+ROLL = 30.46    PITCH = 9.84    
+
+ROLL = 30.68    PITCH = 9.97    
+
+ROLL = 30.78    PITCH = 10.03    
+
+ROLL = 30.99    PITCH = 10.14    
+
+ROLL = 31.08    PITCH = 10.20    
+
+ROLL = 31.26    PITCH = 10.30    
+
+ROLL = 31.34    PITCH = 10.36    
+
+ROLL = 31.49    PITCH = 10.46    
+
+ROLL = 31.56    PITCH = 10.52    
+
+ROLL = 31.68    PITCH = 10.62    
+
+ROLL = 31.74    PITCH = 10.67    
+
+ROLL = 31.85    PITCH = 10.77    
+
+ROLL = 31.90    PITCH = 10.82    
+
+ROLL = 31.98    PITCH = 10.89    
+
+ROLL = 32.01    PITCH = 10.92    
+
+ROLL = 32.06    PITCH = 10.97    
+
+ROLL = 32.09    PITCH = 10.98    
+
+ROLL = 32.13    PITCH = 11.01    
+
+ROLL = 32.16    PITCH = 11.03    
+
+ROLL = 32.17    PITCH = 11.03    
+
+ROLL = 32.18    PITCH = 11.03    
+
+ROLL = 32.18    PITCH = 11.03    
+
+ROLL = 32.19    PITCH = 11.01    
+
+ROLL = 32.18    PITCH = 11.01    
+
+ROLL = 32.18    PITCH = 10.99    
+
+ROLL = 32.18    PITCH = 10.98    
+
+ROLL = 32.18    PITCH = 10.96    
+
+ROLL = 32.17    PITCH = 10.95    
+
+ROLL = 32.17    PITCH = 10.93    
+
+ROLL = 32.17    PITCH = 10.93    
+
+ROLL = 32.16    PITCH = 10.91    
+
+ROLL = 32.15    PITCH = 10.89    
+
+ROLL = 32.13    PITCH = 10.87    
+
+ROLL = 32.12    PITCH = 10.86    
+
+ROLL = 32.10    PITCH = 10.83    
+
+ROLL = 32.08    PITCH = 10.82    
+
+ROLL = 32.06    PITCH = 10.79    
+
+ROLL = 32.04    PITCH = 10.77    
+
+ROLL = 31.99    PITCH = 10.74    
+
+ROLL = 31.96    PITCH = 10.71    
+
+ROLL = 31.91    PITCH = 10.66    
+
+ROLL = 31.88    PITCH = 10.63    
+
+ROLL = 31.82    PITCH = 10.57    
+
+ROLL = 31.80    PITCH = 10.54    
+
+ROLL = 31.74    PITCH = 10.48    
+
+ROLL = 31.67    PITCH = 10.41    
+
+ROLL = 31.64    PITCH = 10.37    
+
+ROLL = 31.58    PITCH = 10.30    
+
+ROLL = 31.56    PITCH = 10.26    
+
+ROLL = 31.50    PITCH = 10.19    
+
+ROLL = 31.48    PITCH = 10.15    
+
+ROLL = 31.42    PITCH = 10.07    
+
+ROLL = 31.39    PITCH = 10.03    
+
+ROLL = 31.33    PITCH = 9.94    
+
+ROLL = 31.30    PITCH = 9.90    
+
+ROLL = 31.25    PITCH = 9.81    
+
+ROLL = 31.22    PITCH = 9.77    
+
+ROLL = 31.15    PITCH = 9.70    
+
+ROLL = 31.12    PITCH = 9.67    
+
+ROLL = 31.05    PITCH = 9.60    
+
+ROLL = 31.01    PITCH = 9.57    
+
+ROLL = 30.98    PITCH = 9.54    
+
+ROLL = 30.90    PITCH = 9.49    
+
+ROLL = 30.86    PITCH = 9.47    
+
+ROLL = 30.77    PITCH = 9.44    
+
+ROLL = 30.72    PITCH = 9.42    
+
+ROLL = 30.63    PITCH = 9.40    
+
+ROLL = 30.58    PITCH = 9.39    
+
+ROLL = 30.49    PITCH = 9.38    
+
+ROLL = 30.44    PITCH = 9.38    
+
+ROLL = 30.35    PITCH = 9.37    
+
+ROLL = 30.31    PITCH = 9.37    
+
+ROLL = 30.22    PITCH = 9.35    
+
+ROLL = 30.17    PITCH = 9.34    
+
+ROLL = 30.08    PITCH = 9.33    
+
+ROLL = 30.03    PITCH = 9.31    
+
+ROLL = 29.94    PITCH = 9.29    
+
+ROLL = 29.88    PITCH = 9.28    
+
+ROLL = 29.78    PITCH = 9.25    
+
+ROLL = 29.72    PITCH = 9.24    
+
+ROLL = 29.62    PITCH = 9.21    
+
+ROLL = 29.56    PITCH = 9.19    
+
+ROLL = 29.50    PITCH = 9.17    
+
+ROLL = 29.39    PITCH = 9.12    
+
+ROLL = 29.33    PITCH = 9.10    
+
+ROLL = 29.22    PITCH = 9.05    
+
+ROLL = 29.16    PITCH = 9.03    
+
+ROLL = 29.05    PITCH = 8.98    
+
+ROLL = 28.99    PITCH = 8.95    
+
+ROLL = 28.87    PITCH = 8.91    
+
+ROLL = 28.81    PITCH = 8.88    
+
+ROLL = 28.70    PITCH = 8.83    
+
+ROLL = 28.64    PITCH = 8.80    
+
+ROLL = 28.53    PITCH = 8.75    
+
+ROLL = 28.47    PITCH = 8.72    
+
+ROLL = 28.37    PITCH = 8.67    
+
+ROLL = 28.32    PITCH = 8.64    
+
+ROLL = 28.20    PITCH = 8.58    
+
+ROLL = 28.15    PITCH = 8.56    
+
+ROLL = 28.05    PITCH = 8.50    
+
+ROLL = 28.00    PITCH = 8.46    
+
+ROLL = 27.87    PITCH = 8.40    
+
+ROLL = 27.81    PITCH = 8.37    
+
+ROLL = 27.74    PITCH = 8.34    
+
+ROLL = 27.62    PITCH = 8.27    
+
+ROLL = 27.56    PITCH = 8.24    
+
+ROLL = 27.43    PITCH = 8.17    
+
+ROLL = 27.37    PITCH = 8.14    
+
+ROLL = 27.24    PITCH = 8.07    
+
+ROLL = 27.16    PITCH = 8.03    
+
+ROLL = 27.02    PITCH = 7.96    
+
+ROLL = 26.94    PITCH = 7.92    
+
+ROLL = 26.78    PITCH = 7.86    
+
+ROLL = 26.70    PITCH = 7.82    
+
+ROLL = 26.52    PITCH = 7.75    
+
+ROLL = 26.43    PITCH = 7.71    
+
+ROLL = 26.24    PITCH = 7.64    
+
+ROLL = 26.14    PITCH = 7.61    
+
+ROLL = 25.94    PITCH = 7.56    
+
+ROLL = 25.83    PITCH = 7.53    
+
+ROLL = 25.61    PITCH = 7.48    
+
+ROLL = 25.49    PITCH = 7.46    
+
+ROLL = 25.24    PITCH = 7.42    
+
+ROLL = 25.12    PITCH = 7.40    
+
+ROLL = 24.99    PITCH = 7.38    
+
+ROLL = 24.72    PITCH = 7.33    
+
+ROLL = 24.58    PITCH = 7.31    
+
+ROLL = 24.30    PITCH = 7.25    
+
+ROLL = 24.15    PITCH = 7.22    
+
+ROLL = 23.86    PITCH = 7.17    
+
+ROLL = 23.71    PITCH = 7.14    
+
+ROLL = 23.41    PITCH = 7.09    
+
+ROLL = 23.26    PITCH = 7.06    
+
+ROLL = 22.95    PITCH = 6.99    
+
+ROLL = 22.79    PITCH = 6.95    
+
+ROLL = 22.47    PITCH = 6.86    
+
+ROLL = 22.31    PITCH = 6.82    
+
+ROLL = 21.97    PITCH = 6.72    
+
+ROLL = 21.79    PITCH = 6.65    
+
+ROLL = 21.43    PITCH = 6.53    
+
+ROLL = 21.26    PITCH = 6.47    
+
+ROLL = 20.89    PITCH = 6.35    
+
+ROLL = 20.71    PITCH = 6.28    
+
+ROLL = 20.51    PITCH = 6.21    
+
+ROLL = 20.12    PITCH = 6.07    
+
+ROLL = 19.92    PITCH = 5.99    
+
+ROLL = 19.50    PITCH = 5.82    
+
+ROLL = 19.28    PITCH = 5.73    
+
+ROLL = 18.83    PITCH = 5.55    
+
+ROLL = 18.60    PITCH = 5.44    
+
+ROLL = 18.13    PITCH = 5.22    
+
+ROLL = 17.89    PITCH = 5.10    
+
+ROLL = 17.40    PITCH = 4.87    
+
+ROLL = 17.16    PITCH = 4.74    
+
+ROLL = 16.66    PITCH = 4.48    
+
+ROLL = 16.41    PITCH = 4.34    
+
+ROLL = 15.89    PITCH = 4.04    
+
+ROLL = 15.62    PITCH = 3.89    
+
+ROLL = 15.08    PITCH = 3.59    
+
+ROLL = 14.81    PITCH = 3.44    
+
+ROLL = 14.23    PITCH = 3.12    
+
+ROLL = 13.94    PITCH = 2.96    
+
+ROLL = 13.32    PITCH = 2.63    
+
+ROLL = 13.00    PITCH = 2.46    
+
+ROLL = 12.67    PITCH = 2.28    
+
+ROLL = 12.00    PITCH = 1.92    
+
+ROLL = 11.65    PITCH = 1.74    
+
+ROLL = 10.91    PITCH = 1.38    
+
+ROLL = 10.52    PITCH = 1.20    
+
+ROLL = 9.72    PITCH = 0.81    
+
+ROLL = 9.31    PITCH = 0.62    
+
+ROLL = 8.45    PITCH = 0.22    
+
+ROLL = 8.01    PITCH = 0.02    
+
+ROLL = 7.10    PITCH = -0.40    
+
+ROLL = 6.64    PITCH = -0.62    
+
+ROLL = 5.73    PITCH = -1.06    
+
+ROLL = 5.25    PITCH = -1.28    
+
+ROLL = 4.76    PITCH = -1.50    
+
+ROLL = 3.79    PITCH = -1.95    
+
+ROLL = 3.32    PITCH = -2.17    
+
+ROLL = 2.36    PITCH = -2.61    
+
+ROLL = 1.87    PITCH = -2.84    
+
+ROLL = 0.86    PITCH = -3.32    
+
+ROLL = 0.35    PITCH = -3.49    
+
+ROLL = -0.59    PITCH = -3.93    
+
+ROLL = -1.07    PITCH = -4.20    
+
+ROLL = -2.02    PITCH = -4.66    
+
+ROLL = -2.51    PITCH = -4.88    
+
+ROLL = -3.49    PITCH = -5.30    
+
+ROLL = -3.98    PITCH = -5.49    
+
+ROLL = -4.89    PITCH = -5.90    
+
+ROLL = -5.31    PITCH = -6.10    
+
+ROLL = -6.13    PITCH = -6.50    
+
+ROLL = -6.54    PITCH = -6.67    
+
+ROLL = -7.38    PITCH = -7.02    
+
+ROLL = -8.16    PITCH = -7.39    
+
+ROLL = -8.49    PITCH = -7.55    
+
+ROLL = -9.16    PITCH = -7.85    
+
+ROLL = -9.48    PITCH = -8.00    
+
+ROLL = -10.07    PITCH = -8.33    
+
+ROLL = -10.35    PITCH = -8.47    
+
+ROLL = -10.89    PITCH = -8.76    
+
+ROLL = -11.15    PITCH = -8.90    
+
+ROLL = -11.63    PITCH = -9.20    
+
+ROLL = -11.85    PITCH = -9.35    
+
+ROLL = -12.28    PITCH = -9.64    
+
+ROLL = -12.68    PITCH = -9.96    
+
+ROLL = -12.87    PITCH = -10.12    
+
+ROLL = -13.22    PITCH = -10.43    
+
+ROLL = -13.39    PITCH = -10.59    
+
+ROLL = -13.72    PITCH = -10.92    
+
+ROLL = -14.03    PITCH = -11.24    
+
+ROLL = -14.17    PITCH = -11.40    
+
+ROLL = -14.46    PITCH = -11.71    
+
+ROLL = -14.60    PITCH = -11.86    
+
+ROLL = -14.85    PITCH = -12.15    
+
+ROLL = -15.07    PITCH = -12.42    
+
+ROLL = -15.18    PITCH = -12.55    
+
+ROLL = -15.35    PITCH = -12.79    
+
+ROLL = -15.43    PITCH = -12.90    
+
+ROLL = -15.56    PITCH = -13.08    
+
+ROLL = -15.66    PITCH = -13.23    
+
+ROLL = -15.70    PITCH = -13.30    
+
+ROLL = -15.74    PITCH = -13.38    
+
+ROLL = -15.75    PITCH = -13.41    
+
+ROLL = -15.75    PITCH = -13.44    
+
+ROLL = -15.72    PITCH = -13.45    
+
+ROLL = -15.69    PITCH = -13.45    
+
+ROLL = -15.62    PITCH = -13.42    
+
+ROLL = -15.57    PITCH = -13.40    
+
+ROLL = -15.46    PITCH = -13.35    
+
+ROLL = -15.32    PITCH = -13.28    
+
+ROLL = -15.24    PITCH = -13.24    
+
+ROLL = -15.07    PITCH = -13.15    
+
+ROLL = -14.99    PITCH = -13.10    
+
+ROLL = -14.81    PITCH = -13.00    
+
+ROLL = -14.63    PITCH = -12.88    
+
+ROLL = -14.54    PITCH = -12.81    
+
+ROLL = -14.34    PITCH = -12.63    
+
+ROLL = -14.24    PITCH = -12.55    
+
+ROLL = -14.05    PITCH = -12.40    
+
+ROLL = -13.87    PITCH = -12.27    
+
+ROLL = -13.78    PITCH = -12.20    
+
+ROLL = -13.59    PITCH = -12.10    
+
+ROLL = -13.40    PITCH = -12.00    
+
+ROLL = -13.31    PITCH = -11.96    
+
+ROLL = -13.10    PITCH = -11.89    
+
+ROLL = -13.00    PITCH = -11.85    
+
+ROLL = -12.78    PITCH = -11.73    
+
+ROLL = -12.54    PITCH = -11.60    
+
+ROLL = -12.41    PITCH = -11.55    
+
+ROLL = -12.17    PITCH = -11.45    
+
+ROLL = -12.04    PITCH = -11.40    
+
+ROLL = -11.78    PITCH = -11.32    
+
+ROLL = -11.53    PITCH = -11.27    
+
+ROLL = -11.40    PITCH = -11.23    
+
+ROLL = -11.13    PITCH = -11.17    
+
+ROLL = -11.00    PITCH = -11.15    
+
+ROLL = -10.73    PITCH = -11.10    
+
+ROLL = -10.46    PITCH = -11.04    
+
+ROLL = -10.32    PITCH = -11.01    
+
+ROLL = -10.04    PITCH = -10.98    
+
+ROLL = -9.91    PITCH = -10.97    
+
+ROLL = -9.65    PITCH = -10.96    
+
+ROLL = -9.39    PITCH = -10.95    
+
+ROLL = -9.25    PITCH = -10.95    
+
+ROLL = -8.99    PITCH = -10.94    
+
+ROLL = -8.86    PITCH = -10.93    
+
+ROLL = -8.62    PITCH = -10.92    
+
+ROLL = -8.49    PITCH = -10.92    
+
+ROLL = -8.26    PITCH = -10.91    
+
+ROLL = -8.14    PITCH = -10.90    
+
+ROLL = -7.92    PITCH = -10.89    
+
+ROLL = -7.71    PITCH = -10.87    
+
+ROLL = -7.61    PITCH = -10.86    
+
+ROLL = -7.42    PITCH = -10.83    
+
+ROLL = -7.32    PITCH = -10.81    
+
+ROLL = -7.14    PITCH = -10.77    
+
+ROLL = -7.06    PITCH = -10.74    
+
+ROLL = -6.90    PITCH = -10.70    
+
+ROLL = -6.75    PITCH = -10.66    
+
+ROLL = -6.67    PITCH = -10.64    
+
+ROLL = -6.54    PITCH = -10.61    
+
+ROLL = -6.48    PITCH = -10.59    
+
+ROLL = -6.36    PITCH = -10.56    
+
+ROLL = -6.31    PITCH = -10.54    
+
+ROLL = -6.21    PITCH = -10.52    
+
+ROLL = -6.16    PITCH = -10.52    
+
+ROLL = -6.07    PITCH = -10.50    
+
+ROLL = -5.98    PITCH = -10.48    
+
+ROLL = -5.94    PITCH = -10.48    
+
+ROLL = -5.86    PITCH = -10.46    
+
+ROLL = -5.82    PITCH = -10.45    
+
+ROLL = -5.74    PITCH = -10.43    
+
+ROLL = -5.71    PITCH = -10.42    
+
+ROLL = -5.65    PITCH = -10.40    
+
+ROLL = -5.59    PITCH = -10.37    
+
+ROLL = -5.57    PITCH = -10.35    
+
+ROLL = -5.52    PITCH = -10.32    
+
+ROLL = -5.50    PITCH = -10.30    
+
+ROLL = -5.47    PITCH = -10.27    
+
+ROLL = -5.45    PITCH = -10.25    
+
+ROLL = -5.42    PITCH = -10.22    
+
+ROLL = -5.41    PITCH = -10.20    
+
+ROLL = -5.38    PITCH = -10.15    
+
+ROLL = -5.36    PITCH = -10.11    
+
+ROLL = -5.35    PITCH = -10.08    
+
+ROLL = -5.32    PITCH = -10.02    
+
+ROLL = -5.31    PITCH = -9.99    
+
+ROLL = -5.28    PITCH = -9.91    
+
+ROLL = -5.27    PITCH = -9.87    
+
+ROLL = -5.25    PITCH = -9.80    
+
+ROLL = -5.24    PITCH = -9.76    
+
+ROLL = -5.22    PITCH = -9.69    
+
+ROLL = -5.21    PITCH = -9.65    
+
+ROLL = -5.20    PITCH = -9.57    
+
+ROLL = -5.20    PITCH = -9.53    
+
+ROLL = -5.19    PITCH = -9.46    
+
+ROLL = -5.19    PITCH = -9.42    
+
+ROLL = -5.19    PITCH = -9.34    
+
+ROLL = -5.18    PITCH = -9.27    
+
+ROLL = -5.18    PITCH = -9.24    
+
+ROLL = -5.18    PITCH = -9.18    
+
+ROLL = -5.18    PITCH = -9.15    
+
+ROLL = -5.17    PITCH = -9.09    
+
+ROLL = -5.17    PITCH = -9.06    
+
+ROLL = -5.16    PITCH = -9.01    
+
+ROLL = -5.15    PITCH = -8.99    
+
+ROLL = -5.14    PITCH = -8.95    
+
+ROLL = -5.13    PITCH = -8.93    
+
+ROLL = -5.11    PITCH = -8.90    
+
+ROLL = -5.10    PITCH = -8.89    
+
+ROLL = -5.08    PITCH = -8.86    
+
+ROLL = -5.07    PITCH = -8.86    
+
+ROLL = -5.05    PITCH = -8.84    
+
+ROLL = -5.04    PITCH = -8.84    
+
+ROLL = -5.02    PITCH = -8.83    
+
+ROLL = -5.01    PITCH = -8.83    
+
+ROLL = -4.97    PITCH = -8.83    
+
+ROLL = -4.96    PITCH = -8.82    
+
+ROLL = -4.92    PITCH = -8.81    
+
+ROLL = -4.89    PITCH = -8.81    
+
+ROLL = -4.84    PITCH = -8.80    
+
+ROLL = -4.81    PITCH = -8.78    
+
+ROLL = -4.75    PITCH = -8.75    
+
+ROLL = -4.69    PITCH = -8.72    
+
+ROLL = -4.65    PITCH = -8.70    
+
+ROLL = -4.58    PITCH = -8.66    
+
+ROLL = -4.55    PITCH = -8.64    
+
+ROLL = -4.47    PITCH = -8.60    
+
+ROLL = -4.43    PITCH = -8.58    
+
+ROLL = -4.35    PITCH = -8.55    
+
+ROLL = -4.31    PITCH = -8.53    
+
+ROLL = -4.24    PITCH = -8.51    
+
+ROLL = -4.20    PITCH = -8.49    
+
+ROLL = -4.13    PITCH = -8.47    
+
+ROLL = -4.09    PITCH = -8.46    
+
+ROLL = -4.02    PITCH = -8.45    
+
+ROLL = -3.98    PITCH = -8.45    
+
+ROLL = -3.92    PITCH = -8.44    
+
+ROLL = -3.88    PITCH = -8.44    
+
+ROLL = -3.82    PITCH = -8.44    
+
+ROLL = -3.78    PITCH = -8.43    
+
+ROLL = -3.72    PITCH = -8.42    
+
+ROLL = -3.68    PITCH = -8.41    
+
+ROLL = -3.62    PITCH = -8.41    
+
+ROLL = -3.59    PITCH = -8.41    
+
+ROLL = -3.52    PITCH = -8.41    
+
+ROLL = -3.49    PITCH = -8.41    
+
+ROLL = -3.43    PITCH = -8.41    
+
+ROLL = -3.39    PITCH = -8.40    
+
+ROLL = -3.32    PITCH = -8.39    
+
+ROLL = -3.26    PITCH = -8.38    
+
+ROLL = -3.24    PITCH = -8.37    
+
+ROLL = -3.18    PITCH = -8.36    
+
+ROLL = -3.15    PITCH = -8.36    
+
+ROLL = -3.09    PITCH = -8.33    
+
+ROLL = -3.05    PITCH = -8.32    
+
+ROLL = -2.99    PITCH = -8.29    
+
+ROLL = -2.96    PITCH = -8.26    
+
+ROLL = -2.91    PITCH = -8.23    
+
+ROLL = -2.88    PITCH = -8.21    
+
+ROLL = -2.82    PITCH = -8.17    
+
+ROLL = -2.80    PITCH = -8.16    
+
+ROLL = -2.74    PITCH = -8.13    
+
+ROLL = -2.72    PITCH = -8.12    
+
+ROLL = -2.67    PITCH = -8.10    
+
+ROLL = -2.65    PITCH = -8.09    
+
+ROLL = -2.60    PITCH = -8.08    
+
+ROLL = -2.58    PITCH = -8.07    
+
+ROLL = -2.54    PITCH = -8.06    
+
+ROLL = -2.52    PITCH = -8.06    
+
+ROLL = -2.47    PITCH = -8.05    
+
+ROLL = -2.45    PITCH = -8.04    
+
+ROLL = -2.41    PITCH = -8.03    
+
+ROLL = -2.38    PITCH = -8.02    
+
+ROLL = -2.34    PITCH = -8.01    
+
+ROLL = -2.29    PITCH = -8.00    
+
+ROLL = -2.27    PITCH = -7.99    
+
+ROLL = -2.23    PITCH = -7.98    
+
+ROLL = -2.21    PITCH = -7.98    
+
+ROLL = -2.16    PITCH = -7.97    
+
+ROLL = -2.14    PITCH = -7.96    
+
+ROLL = -2.09    PITCH = -7.95    
+
+ROLL = -2.07    PITCH = -7.94    
+
+ROLL = -2.02    PITCH = -7.93    
+
+ROLL = -1.99    PITCH = -7.92    
+
+ROLL = -1.94    PITCH = -7.92    
+
+ROLL = -1.92    PITCH = -7.91    
+
+ROLL = -1.88    PITCH = -7.89    
+
+ROLL = -1.85    PITCH = -7.89    
+
+ROLL = -1.81    PITCH = -7.87    
+
+ROLL = -1.79    PITCH = -7.86    
+
+ROLL = -1.75    PITCH = -7.85    
+
+ROLL = -1.73    PITCH = -7.85    
+
+ROLL = -1.69    PITCH = -7.83    
+
+ROLL = -1.67    PITCH = -7.82    
+
+ROLL = -1.63    PITCH = -7.81    
+
+ROLL = -1.61    PITCH = -7.80    
+
+ROLL = -1.57    PITCH = -7.79    
+
+ROLL = -1.55    PITCH = -7.77    
+
+ROLL = -1.52    PITCH = -7.75    
+
+ROLL = -1.50    PITCH = -7.74    
+
+ROLL = -1.46    PITCH = -7.71    
+
+ROLL = -1.43    PITCH = -7.68    
+
+ROLL = -1.41    PITCH = -7.66    
+
+ROLL = -1.39    PITCH = -7.64    
+
+ROLL = -1.37    PITCH = -7.62    
+
+ROLL = -1.35    PITCH = -7.59    
+
+ROLL = -1.34    PITCH = -7.57    
+
+ROLL = -1.32    PITCH = -7.54    
+
+ROLL = -1.32    PITCH = -7.53    
+
+ROLL = -1.30    PITCH = -7.50    
+
+ROLL = -1.29    PITCH = -7.49    
+
+ROLL = -1.28    PITCH = -7.47    
+
+ROLL = -1.27    PITCH = -7.46    
+
+ROLL = -1.27    PITCH = -7.44    
+
+ROLL = -1.27    PITCH = -7.43    
+
+ROLL = -1.27    PITCH = -7.42    
+
+ROLL = -1.27    PITCH = -7.42    
+
+ROLL = -1.27    PITCH = -7.41    
+
+ROLL = -1.27    PITCH = -7.41    
+
+ROLL = -1.27    PITCH = -7.40    
+
+ROLL = -1.27    PITCH = -7.40    
+
+ROLL = -1.27    PITCH = -7.39    
+
+ROLL = -1.27    PITCH = -7.39    
+
+ROLL = -1.26    PITCH = -7.38    
+
+ROLL = -1.25    PITCH = -7.38    
+
+ROLL = -1.24    PITCH = -7.38    
+
+ROLL = -1.23    PITCH = -7.38    
+
+ROLL = -1.22    PITCH = -7.37    
+
+ROLL = -1.20    PITCH = -7.37    
+
+ROLL = -1.19    PITCH = -7.38    
+
+ROLL = -1.17    PITCH = -7.38    
+
+ROLL = -1.16    PITCH = -7.38    
+
+ROLL = -1.15    PITCH = -7.40    
+
+ROLL = -1.14    PITCH = -7.40    
+
+ROLL = -1.12    PITCH = -7.42    
+
+ROLL = -1.11    PITCH = -7.43    
+
+ROLL = -1.10    PITCH = -7.45    
+
+ROLL = -1.09    PITCH = -7.46    
+
+ROLL = -1.07    PITCH = -7.48    
+
+ROLL = -1.06    PITCH = -7.48    
+
+ROLL = -1.03    PITCH = -7.49    
+
+ROLL = -1.02    PITCH = -7.49    
+
+ROLL = -0.99    PITCH = -7.50    
+
+ROLL = -0.98    PITCH = -7.50    
+
+ROLL = -0.94    PITCH = -7.49    
+
+ROLL = -0.92    PITCH = -7.49    
+
+ROLL = -0.88    PITCH = -7.48    
+
+ROLL = -0.85    PITCH = -7.47    
+
+ROLL = -0.80    PITCH = -7.45    
+
+ROLL = -0.77    PITCH = -7.44    
+
+ROLL = -0.71    PITCH = -7.43    
+
+ROLL = -0.68    PITCH = -7.42    
+
+ROLL = -0.61    PITCH = -7.40    
+
+ROLL = -0.54    PITCH = -7.40    
+
+ROLL = -0.51    PITCH = -7.40    
+
+ROLL = -0.45    PITCH = -7.40    
+
+ROLL = -0.41    PITCH = -7.39    
+
+ROLL = -0.36    PITCH = -7.39    
+
+ROLL = -0.33    PITCH = -7.38    
+
+ROLL = -0.27    PITCH = -7.37    
+
+ROLL = -0.24    PITCH = -7.36    
+
+ROLL = -0.20    PITCH = -7.36    
+
+ROLL = -0.18    PITCH = -7.35    
+
+ROLL = -0.14    PITCH = -7.35    
+
+ROLL = -0.12    PITCH = -7.34    
+
+ROLL = -0.10    PITCH = -7.34    
+
+ROLL = -0.10    PITCH = -7.34    
+
+ROLL = -0.08    PITCH = -7.33    
+
+ROLL = -0.08    PITCH = -7.33    
+
+ROLL = -0.08    PITCH = -7.32    
+
+ROLL = -0.08    PITCH = -7.32    
+
+ROLL = -0.08    PITCH = -7.30    
+
+ROLL = -0.08    PITCH = -7.30    
+
+ROLL = -0.08    PITCH = -7.29    
+
+ROLL = -0.08    PITCH = -7.28    
+
+ROLL = -0.09    PITCH = -7.26    
+
+ROLL = -0.09    PITCH = -7.25    
+
+ROLL = -0.09    PITCH = -7.23    
+
+ROLL = -0.09    PITCH = -7.22    
+
+ROLL = -0.09    PITCH = -7.19    
+
+ROLL = -0.10    PITCH = -7.16    
+
+ROLL = -0.10    PITCH = -7.15    
+
+ROLL = -0.10    PITCH = -7.13    
+
+ROLL = -0.11    PITCH = -7.11    
+
+ROLL = -0.12    PITCH = -7.09    
+
+ROLL = -0.12    PITCH = -7.07    
+
+ROLL = -0.14    PITCH = -7.05    
+
+ROLL = -0.15    PITCH = -7.04    
+
+ROLL = -0.16    PITCH = -7.02    
+
+ROLL = -0.17    PITCH = -7.01    
+
+ROLL = -0.20    PITCH = -6.99    
+
+ROLL = -0.21    PITCH = -6.97    
+
+ROLL = -0.24    PITCH = -6.95    
+
+ROLL = -0.26    PITCH = -6.94    
+
+ROLL = -0.28    PITCH = -6.92    
+
+ROLL = -0.30    PITCH = -6.91    
+
+ROLL = -0.33    PITCH = -6.89    
+
+ROLL = -0.35    PITCH = -6.88    
+
+ROLL = -0.39    PITCH = -6.86    
+
+ROLL = -0.41    PITCH = -6.85    
+
+ROLL = -0.46    PITCH = -6.83    
+
+ROLL = -0.48    PITCH = -6.82    
+
+ROLL = -0.52    PITCH = -6.78    
+
+ROLL = -0.54    PITCH = -6.76    
+
+ROLL = -0.57    PITCH = -6.73    
+
+ROLL = -0.60    PITCH = -6.70    
+
+ROLL = -0.61    PITCH = -6.68    
+
+ROLL = -0.62    PITCH = -6.66    
+
+ROLL = -0.63    PITCH = -6.65    
+
+ROLL = -0.64    PITCH = -6.63    
+
+ROLL = -0.64    PITCH = -6.61    
+
+ROLL = -0.63    PITCH = -6.59    
+
+ROLL = -0.62    PITCH = -6.57    
+
+ROLL = -0.59    PITCH = -6.54    
+
+ROLL = -0.58    PITCH = -6.52    
+
+ROLL = -0.55    PITCH = -6.49    
+
+ROLL = -0.53    PITCH = -6.47    
+
+ROLL = -0.49    PITCH = -6.44    
+
+ROLL = -0.47    PITCH = -6.43    
+
+ROLL = -0.43    PITCH = -6.40    
+
+ROLL = -0.41    PITCH = -6.38    
+
+ROLL = -0.36    PITCH = -6.36    
+
+ROLL = -0.34    PITCH = -6.34    
+
+ROLL = -0.29    PITCH = -6.32    
+
+ROLL = -0.27    PITCH = -6.32    
+
+ROLL = -0.23    PITCH = -6.29    
+
+ROLL = -0.21    PITCH = -6.28    
+
+ROLL = -0.18    PITCH = -6.27    
+
+ROLL = -0.17    PITCH = -6.27    
+
+ROLL = -0.14    PITCH = -6.26    
+
+ROLL = -0.13    PITCH = -6.26    
+
+ROLL = -0.11    PITCH = -6.26    
+
+ROLL = -0.09    PITCH = -6.27    
+
+ROLL = -0.08    PITCH = -6.28    
+
+ROLL = -0.07    PITCH = -6.29    
+
+ROLL = -0.06    PITCH = -6.29    
+
+ROLL = -0.05    PITCH = -6.31    
+
+ROLL = -0.05    PITCH = -6.31    
+
+ROLL = -0.03    PITCH = -6.31    
+
+ROLL = -0.03    PITCH = -6.32    
+
+ROLL = -0.00    PITCH = -6.32    
+
+ROLL = 0.01    PITCH = -6.31    
+
+ROLL = 0.04    PITCH = -6.31    
+
+ROLL = 0.05    PITCH = -6.31    
+
+ROLL = 0.07    PITCH = -6.31    
+
+ROLL = 0.09    PITCH = -6.31    
+
+ROLL = 0.12    PITCH = -6.31    
+
+ROLL = 0.14    PITCH = -6.31    
+
+ROLL = 0.18    PITCH = -6.31    
+
+ROLL = 0.20    PITCH = -6.31    
+
+ROLL = 0.22    PITCH = -6.31    
+
+ROLL = 0.26    PITCH = -6.32    
+
+ROLL = 0.28    PITCH = -6.33    
+
+ROLL = 0.32    PITCH = -6.34    
+
+ROLL = 0.33    PITCH = -6.35    
+
+ROLL = 0.36    PITCH = -6.37    
+
+ROLL = 0.38    PITCH = -6.38    
+
+ROLL = 0.40    PITCH = -6.41    
+
+ROLL = 0.42    PITCH = -6.42    
+
+ROLL = 0.44    PITCH = -6.44    
+
+ROLL = 0.45    PITCH = -6.46    
+
+ROLL = 0.47    PITCH = -6.48    
+
+ROLL = 0.49    PITCH = -6.50    
+
+ROLL = 0.50    PITCH = -6.52    
+
+ROLL = 0.51    PITCH = -6.54    
+
+ROLL = 0.52    PITCH = -6.56    
+
+ROLL = 0.53    PITCH = -6.57    
+
+ROLL = 0.54    PITCH = -6.59    
+
+ROLL = 0.54    PITCH = -6.60    
+
+ROLL = 0.54    PITCH = -6.61    
+
+ROLL = 0.55    PITCH = -6.61    
+
+ROLL = 0.55    PITCH = -6.61    
+
+ROLL = 0.56    PITCH = -6.62    
+
+ROLL = 0.56    PITCH = -6.61    
+
+ROLL = 0.57    PITCH = -6.61    
+
+ROLL = 0.57    PITCH = -6.61    
+
+ROLL = 0.57    PITCH = -6.61    
+
+ROLL = 0.58    PITCH = -6.61    
+
+ROLL = 0.58    PITCH = -6.60    
+
+ROLL = 0.58    PITCH = -6.60    
+
+ROLL = 0.59    PITCH = -6.59    
+
+ROLL = 0.60    PITCH = -6.58    
+
+ROLL = 0.61    PITCH = -6.57    
+
+ROLL = 0.62    PITCH = -6.56    
+
+ROLL = 0.64    PITCH = -6.55    
+
+ROLL = 0.65    PITCH = -6.54    
+
+ROLL = 0.68    PITCH = -6.52    
+
+ROLL = 0.70    PITCH = -6.52    
+
+ROLL = 0.72    PITCH = -6.51    
+
+ROLL = 0.74    PITCH = -6.50    
+
+ROLL = 0.76    PITCH = -6.49    
+
+ROLL = 0.78    PITCH = -6.49    
+
+ROLL = 0.80    PITCH = -6.49    
+
+ROLL = 0.83    PITCH = -6.49    
+
+ROLL = 0.84    PITCH = -6.49    
+
+ROLL = 0.88    PITCH = -6.50    
+
+ROLL = 0.89    PITCH = -6.50    
+
+ROLL = 0.92    PITCH = -6.51    
+
+ROLL = 0.93    PITCH = -6.52    
+
+ROLL = 0.96    PITCH = -6.53    
+
+ROLL = 0.97    PITCH = -6.55    
+
+ROLL = 0.99    PITCH = -6.57    
+
+ROLL = 1.00    PITCH = -6.59    
+
+ROLL = 1.02    PITCH = -6.62    
+
+ROLL = 1.03    PITCH = -6.63    
+
+ROLL = 1.04    PITCH = -6.66    
+
+ROLL = 1.05    PITCH = -6.68    
+
+ROLL = 1.06    PITCH = -6.70    
+
+ROLL = 1.07    PITCH = -6.71    
+
+ROLL = 1.08    PITCH = -6.71    
+
+ROLL = 1.09    PITCH = -6.72    
+
+ROLL = 1.10    PITCH = -6.72    
+
+ROLL = 1.13    PITCH = -6.73    
+
+ROLL = 1.14    PITCH = -6.73    
+
+ROLL = 1.16    PITCH = -6.73    
+
+ROLL = 1.17    PITCH = -6.73    
+
+ROLL = 1.18    PITCH = -6.73    
+
+ROLL = 1.19    PITCH = -6.74    
+
+ROLL = 1.20    PITCH = -6.74    
+
+ROLL = 1.20    PITCH = -6.74    
+
+ROLL = 1.20    PITCH = -6.74    
+
+ROLL = 1.21    PITCH = -6.75    
+
+ROLL = 1.20    PITCH = -6.74    
+
+ROLL = 1.20    PITCH = -6.75    
+
+ROLL = 1.18    PITCH = -6.76    
+
+ROLL = 1.18    PITCH = -6.78    
+
+ROLL = 1.28    PITCH = -6.76    
+
+ROLL = 1.27    PITCH = -6.75    
+
+ROLL = 1.06    PITCH = -6.79    
+
+ROLL = 1.07    PITCH = -6.81    
+
+ROLL = 1.18    PITCH = -6.82    
+
+ROLL = 1.16    PITCH = -6.80    
+
+ROLL = 1.09    PITCH = -6.81    
+
+ROLL = 1.05    PITCH = -6.86    
+
+ROLL = 1.09    PITCH = -6.88    
+
+ROLL = 1.11    PITCH = -6.84    
+
+ROLL = 1.09    PITCH = -6.82    
+
+ROLL = 1.10    PITCH = -6.84    
+
+ROLL = 1.10    PITCH = -6.84    
+
+ROLL = 1.13    PITCH = -6.76    
+
+ROLL = 1.16    PITCH = -6.75    
+
+ROLL = 1.15    PITCH = -6.81    
+
+ROLL = 1.17    PITCH = -6.81    
+
+ROLL = 1.22    PITCH = -6.73    
+
+ROLL = 1.23    PITCH = -6.70    
+
+ROLL = 1.27    PITCH = -6.70    
+
+ROLL = 1.28    PITCH = -6.69    
+
+ROLL = 1.32    PITCH = -6.63    
+
+ROLL = 1.32    PITCH = -6.64    
+
+ROLL = 1.30    PITCH = -6.68    
+
+ROLL = 1.29    PITCH = -6.69    
+
+ROLL = 1.32    PITCH = -6.68    
+
+ROLL = 1.33    PITCH = -6.70    
+
+ROLL = 1.34    PITCH = -6.73    
+
+ROLL = 1.34    PITCH = -6.79    
+
+ROLL = 1.35    PITCH = -6.81    
+
+ROLL = 1.39    PITCH = -6.86    
+
+ROLL = 1.41    PITCH = -6.90    
+
+ROLL = 1.46    PITCH = -6.97    
+
+ROLL = 1.52    PITCH = -6.98    
+
+ROLL = 1.63    PITCH = -6.99    
+
+ROLL = 1.66    PITCH = -7.03    
+
+ROLL = 1.70    PITCH = -7.13    
+
+ROLL = 1.74    PITCH = -7.16    
+
+ROLL = 1.83    PITCH = -7.20    
+
+ROLL = 1.87    PITCH = -7.24    
+
+ROLL = 1.93    PITCH = -7.34    
+
+ROLL = 1.98    PITCH = -7.38    
+
+ROLL = 2.09    PITCH = -7.43    
+
+ROLL = 2.14    PITCH = -7.47    
+
+ROLL = 2.23    PITCH = -7.52    
+
+ROLL = 2.28    PITCH = -7.54    
+
+ROLL = 2.40    PITCH = -7.58    
+
+ROLL = 2.46    PITCH = -7.58    
+
+ROLL = 2.50    PITCH = -7.58    
+
+ROLL = 2.61    PITCH = -7.56    
+
+ROLL = 2.66    PITCH = -7.55    
+
+ROLL = 2.77    PITCH = -7.51    
+
+ROLL = 2.82    PITCH = -7.48    
+
+ROLL = 2.91    PITCH = -7.43    
+
+ROLL = 2.95    PITCH = -7.40    
+
+ROLL = 3.03    PITCH = -7.34    
+
+ROLL = 3.06    PITCH = -7.30    
+
+ROLL = 3.15    PITCH = -7.24    
+
+ROLL = 3.18    PITCH = -7.21    
+
+ROLL = 3.25    PITCH = -7.15    
+
+ROLL = 3.29    PITCH = -7.12    
+
+ROLL = 3.36    PITCH = -7.08    
+
+ROLL = 3.39    PITCH = -7.07    
+
+ROLL = 3.45    PITCH = -7.04    
+
+ROLL = 3.48    PITCH = -7.02    
+
+ROLL = 3.55    PITCH = -6.99    
+
+ROLL = 3.59    PITCH = -6.96    
+
+ROLL = 3.62    PITCH = -6.94    
+
+ROLL = 3.64    PITCH = -6.93    
+
+ROLL = 3.63    PITCH = -6.93    
+
+ROLL = 3.64    PITCH = -6.93    
+
+ROLL = 3.65    PITCH = -6.92    
+
+ROLL = 3.63    PITCH = -6.92    
+
+ROLL = 3.58    PITCH = -6.94    
+
+ROLL = 3.49    PITCH = -6.96    
+
+ROLL = 3.47    PITCH = -6.95    
+
+ROLL = 3.40    PITCH = -6.95    
+
+ROLL = 3.34    PITCH = -6.95    
+
+ROLL = 3.21    PITCH = -6.95    
+
+ROLL = 3.17    PITCH = -6.94    
+
+ROLL = 3.07    PITCH = -6.92    
+
+ROLL = 3.01    PITCH = -6.91    
+
+ROLL = 2.89    PITCH = -6.87    
+
+ROLL = 2.84    PITCH = -6.84    
+
+ROLL = 2.75    PITCH = -6.78    
+
+ROLL = 2.70    PITCH = -6.75    
+
+ROLL = 2.58    PITCH = -6.68    
+
+ROLL = 2.53    PITCH = -6.64    
+
+ROLL = 2.49    PITCH = -6.61    
+
+ROLL = 2.39    PITCH = -6.54    
+
+ROLL = 2.34    PITCH = -6.52    
+
+ROLL = 2.24    PITCH = -6.46    
+
+ROLL = 2.20    PITCH = -6.44    
+
+ROLL = 2.11    PITCH = -6.39    
+
+ROLL = 2.06    PITCH = -6.37    
+
+ROLL = 1.97    PITCH = -6.35    
+
+ROLL = 1.93    PITCH = -6.34    
+
+ROLL = 1.85    PITCH = -6.34    
+
+ROLL = 1.81    PITCH = -6.35    
+
+ROLL = 1.73    PITCH = -6.39    
+
+ROLL = 1.70    PITCH = -6.42    
+
+ROLL = 1.62    PITCH = -6.48    
+
+ROLL = 1.58    PITCH = -6.52    
+
+ROLL = 1.50    PITCH = -6.60    
+
+ROLL = 1.46    PITCH = -6.65    
+
+ROLL = 1.39    PITCH = -6.74    
+
+ROLL = 1.35    PITCH = -6.79    
+
+ROLL = 1.28    PITCH = -6.89    
+
+ROLL = 1.24    PITCH = -6.94    
+
+ROLL = 1.21    PITCH = -6.99    
+
+ROLL = 1.14    PITCH = -7.09    
+
+ROLL = 1.11    PITCH = -7.15    
+
+ROLL = 1.04    PITCH = -7.25    
+
+ROLL = 1.01    PITCH = -7.30    
+
+ROLL = 0.95    PITCH = -7.41    
+
+ROLL = 0.92    PITCH = -7.46    
+
+ROLL = 0.86    PITCH = -7.56    
+
+ROLL = 0.84    PITCH = -7.61    
+
+ROLL = 0.78    PITCH = -7.71    
+
+ROLL = 0.76    PITCH = -7.75    
+
+ROLL = 0.72    PITCH = -7.85    
+
+ROLL = 0.69    PITCH = -7.90    
+
+ROLL = 0.66    PITCH = -7.99    
+
+ROLL = 0.64    PITCH = -8.03    
+
+ROLL = 0.61    PITCH = -8.13    
+
+ROLL = 0.60    PITCH = -8.17    
+
+ROLL = 0.58    PITCH = -8.25    
+
+ROLL = 0.57    PITCH = -8.30    
+
+ROLL = 0.55    PITCH = -8.39    
+
+ROLL = 0.54    PITCH = -8.43    
+
+ROLL = 0.53    PITCH = -8.47    
+
+ROLL = 0.51    PITCH = -8.56    
+
+ROLL = 0.51    PITCH = -8.60    
+
+ROLL = 0.49    PITCH = -8.69    
+
+ROLL = 0.49    PITCH = -8.73    
+
+ROLL = 0.48    PITCH = -8.81    
+
+ROLL = 0.48    PITCH = -8.85    
+
+ROLL = 0.49    PITCH = -8.93    
+
+ROLL = 0.49    PITCH = -8.97    
+
+ROLL = 0.50    PITCH = -9.05    
+
+ROLL = 0.51    PITCH = -9.08    
+
+ROLL = 0.53    PITCH = -9.15    
+
+ROLL = 0.54    PITCH = -9.18    
+
+ROLL = 0.57    PITCH = -9.24    
+
+ROLL = 0.58    PITCH = -9.27    
+
+ROLL = 0.62    PITCH = -9.31    
+
+ROLL = 0.64    PITCH = -9.33    
+
+ROLL = 0.68    PITCH = -9.36    
+
+ROLL = 0.71    PITCH = -9.36    
+
+ROLL = 0.76    PITCH = -9.37    
+
+ROLL = 0.79    PITCH = -9.37    
+
+ROLL = 0.82    PITCH = -9.36    
+
+ROLL = 0.89    PITCH = -9.35    
+
+ROLL = 0.93    PITCH = -9.35    
+
+ROLL = 1.00    PITCH = -9.33    
+
+ROLL = 1.04    PITCH = -9.32    
+
+ROLL = 1.12    PITCH = -9.30    
+
+ROLL = 1.16    PITCH = -9.29    
+
+ROLL = 1.23    PITCH = -9.27    
+
+ROLL = 1.27    PITCH = -9.25    
+
+ROLL = 1.34    PITCH = -9.23    
+
+ROLL = 1.38    PITCH = -9.21    
+
+ROLL = 1.46    PITCH = -9.19    
+
+ROLL = 1.49    PITCH = -9.18    
+
+ROLL = 1.56    PITCH = -9.15    
+
+ROLL = 1.59    PITCH = -9.15    
+
+ROLL = 1.65    PITCH = -9.13    
+
+ROLL = 1.68    PITCH = -9.11    
+
+ROLL = 1.73    PITCH = -9.08    
+
+ROLL = 1.76    PITCH = -9.06    
+
+ROLL = 1.79    PITCH = -9.05    
+
+ROLL = 1.84    PITCH = -9.01    
+
+ROLL = 1.86    PITCH = -8.99    
+
+ROLL = 1.92    PITCH = -8.96    
+
+ROLL = 1.94    PITCH = -8.94    
+
+ROLL = 1.99    PITCH = -8.90    
+
+ROLL = 2.01    PITCH = -8.88    
+
+ROLL = 2.06    PITCH = -8.85    
+
+ROLL = 2.08    PITCH = -8.82    
+
+ROLL = 2.13    PITCH = -8.78    
+
+ROLL = 2.15    PITCH = -8.75    
+
+ROLL = 2.21    PITCH = -8.71    
+
+ROLL = 2.23    PITCH = -8.68    
+
+ROLL = 2.28    PITCH = -8.64    
+
+ROLL = 2.31    PITCH = -8.62    
+
+ROLL = 2.36    PITCH = -8.57    
+
+ROLL = 2.39    PITCH = -8.54    
+
+ROLL = 2.44    PITCH = -8.50    
+
+ROLL = 2.47    PITCH = -8.47    
+
+ROLL = 2.53    PITCH = -8.43    
+
+ROLL = 2.56    PITCH = -8.41    
+
+ROLL = 2.59    PITCH = -8.38    
+
+ROLL = 2.64    PITCH = -8.34    
+
+ROLL = 2.67    PITCH = -8.32    
+
+ROLL = 2.73    PITCH = -8.28    
+
+ROLL = 2.75    PITCH = -8.26    
+
+ROLL = 2.80    PITCH = -8.22    
+
+ROLL = 2.83    PITCH = -8.20    
+
+ROLL = 2.87    PITCH = -8.17    
+
+ROLL = 2.90    PITCH = -8.15    
+
+ROLL = 2.94    PITCH = -8.12    
+
+ROLL = 2.96    PITCH = -8.10    
+
+ROLL = 3.00    PITCH = -8.08    
+
+ROLL = 3.01    PITCH = -8.07    
+
+ROLL = 3.05    PITCH = -8.06    
+
+ROLL = 3.06    PITCH = -8.05    
+
+ROLL = 3.10    PITCH = -8.04    
+
+ROLL = 3.11    PITCH = -8.04    
+
+ROLL = 3.13    PITCH = -8.04    
+
+ROLL = 3.14    PITCH = -8.05    
+
+ROLL = 3.15    PITCH = -8.05    
+
+ROLL = 3.16    PITCH = -8.06    
+
+ROLL = 3.17    PITCH = -8.07    
+
+ROLL = 3.17    PITCH = -8.07    
+
+ROLL = 3.17    PITCH = -8.08    
+
+ROLL = 3.17    PITCH = -8.09    
+
+ROLL = 3.17    PITCH = -8.09    
+
+ROLL = 3.17    PITCH = -8.09    
+
+ROLL = 3.16    PITCH = -8.10    
+
+ROLL = 3.15    PITCH = -8.09    
+
+ROLL = 3.14    PITCH = -8.08    
+
+ROLL = 3.12    PITCH = -8.07    
+
+ROLL = 3.11    PITCH = -8.06    
+
+ROLL = 3.09    PITCH = -8.04    
+
+ROLL = 3.08    PITCH = -8.03    
+
+ROLL = 3.06    PITCH = -8.00    
+
+ROLL = 3.04    PITCH = -7.99    
+
+ROLL = 3.01    PITCH = -7.96    
+
+ROLL = 3.00    PITCH = -7.95    
+
+ROLL = 2.97    PITCH = -7.91    
+
+ROLL = 2.96    PITCH = -7.90    
+
+ROLL = 2.93    PITCH = -7.87    
+
+ROLL = 2.91    PITCH = -7.85    
+
+ROLL = 2.90    PITCH = -7.84    
+
+ROLL = 2.86    PITCH = -7.81    
+
+ROLL = 2.85    PITCH = -7.80    
+
+ROLL = 2.81    PITCH = -7.77    
+
+ROLL = 2.80    PITCH = -7.75    
+
+ROLL = 2.76    PITCH = -7.72    
+
+ROLL = 2.75    PITCH = -7.71    
+
+ROLL = 2.72    PITCH = -7.68    
+
+ROLL = 2.71    PITCH = -7.66    
+
+ROLL = 2.69    PITCH = -7.63    
+
+ROLL = 2.68    PITCH = -7.62    
+
+ROLL = 2.66    PITCH = -7.60    
+
+ROLL = 2.65    PITCH = -7.59    
+
+ROLL = 2.64    PITCH = -7.56    
+
+ROLL = 2.63    PITCH = -7.55    
+
+ROLL = 2.62    PITCH = -7.52    
+
+ROLL = 2.62    PITCH = -7.51    
+
+ROLL = 2.62    PITCH = -7.48    
+
+ROLL = 2.62    PITCH = -7.45    
+
+ROLL = 2.62    PITCH = -7.43    
+
+ROLL = 2.63    PITCH = -7.39    
+
+ROLL = 2.64    PITCH = -7.37    
+
+ROLL = 2.66    PITCH = -7.33    
+
+ROLL = 2.67    PITCH = -7.31    
+
+ROLL = 2.69    PITCH = -7.26    
+
+ROLL = 2.70    PITCH = -7.24    
+
+ROLL = 2.72    PITCH = -7.20    
+
+ROLL = 2.73    PITCH = -7.18    
+
+ROLL = 2.76    PITCH = -7.15    
+
+ROLL = 2.77    PITCH = -7.13    
+
+ROLL = 2.79    PITCH = -7.10    
+
+ROLL = 2.80    PITCH = -7.09    
+
+ROLL = 2.83    PITCH = -7.07    
+
+ROLL = 2.84    PITCH = -7.06    
+
+ROLL = 2.86    PITCH = -7.04    
+
+ROLL = 2.87    PITCH = -7.03    
+
+ROLL = 2.89    PITCH = -7.02    
+
+ROLL = 2.90    PITCH = -7.01    
+
+ROLL = 2.92    PITCH = -7.02    
+
+ROLL = 2.93    PITCH = -7.02    
+
+ROLL = 2.94    PITCH = -7.02    
+
+ROLL = 2.95    PITCH = -7.02    
+
+ROLL = 2.96    PITCH = -7.02    
+
+ROLL = 2.97    PITCH = -7.03    
+
+ROLL = 2.97    PITCH = -7.03    
+
+ROLL = 2.98    PITCH = -7.04    
+
+ROLL = 2.98    PITCH = -7.04    
+
+ROLL = 2.99    PITCH = -7.04    
+
+ROLL = 3.00    PITCH = -7.04    
+
+ROLL = 3.00    PITCH = -7.05    
+
+ROLL = 3.01    PITCH = -7.05    
+
+ROLL = 3.03    PITCH = -7.05    
+
+ROLL = 3.03    PITCH = -7.04    
+
+ROLL = 3.05    PITCH = -7.05    
+
+ROLL = 3.05    PITCH = -7.05    
+
+ROLL = 3.07    PITCH = -7.05    
+
+ROLL = 3.08    PITCH = -7.05    
+
+ROLL = 3.09    PITCH = -7.05    
+
+ROLL = 3.10    PITCH = -7.06    
+
+ROLL = 3.11    PITCH = -7.06    
+
+ROLL = 3.11    PITCH = -7.06    
+
+ROLL = 3.12    PITCH = -7.06    
+
+ROLL = 3.13    PITCH = -7.07    
+
+ROLL = 3.13    PITCH = -7.07    
+
+ROLL = 3.15    PITCH = -7.07    
+
+ROLL = 3.15    PITCH = -7.08    
+
+ROLL = 3.16    PITCH = -7.09    
+
+ROLL = 3.17    PITCH = -7.09    
+
+ROLL = 3.18    PITCH = -7.11    
+
+ROLL = 3.18    PITCH = -7.12    
+
+ROLL = 3.19    PITCH = -7.14    
+
+ROLL = 3.19    PITCH = -7.16    
+
+ROLL = 3.19    PITCH = -7.18    
+
+ROLL = 3.20    PITCH = -7.20    
+
+ROLL = 3.20    PITCH = -7.23    
+
+ROLL = 3.20    PITCH = -7.24    
+
+ROLL = 3.20    PITCH = -7.27    
+
+ROLL = 3.20    PITCH = -7.29    
+
+ROLL = 3.19    PITCH = -7.31    
+
+ROLL = 3.19    PITCH = -7.33    
+
+ROLL = 3.19    PITCH = -7.35    
+
+ROLL = 3.18    PITCH = -7.36    
+
+ROLL = 3.18    PITCH = -7.37    
+
+ROLL = 3.18    PITCH = -7.40    
+
+ROLL = 3.17    PITCH = -7.41    
+
+ROLL = 3.16    PITCH = -7.43    
+
+ROLL = 3.16    PITCH = -7.44    
+
+ROLL = 3.15    PITCH = -7.46    
+
+ROLL = 3.14    PITCH = -7.47    
+
+ROLL = 3.13    PITCH = -7.48    
+
+ROLL = 3.12    PITCH = -7.49    
+
+ROLL = 3.10    PITCH = -7.50    
+
+ROLL = 3.09    PITCH = -7.51    
+
+ROLL = 3.06    PITCH = -7.53    
+
+ROLL = 3.04    PITCH = -7.54    
+
+ROLL = 3.01    PITCH = -7.56    
+
+ROLL = 3.00    PITCH = -7.57    
+
+ROLL = 2.96    PITCH = -7.59    
+
+ROLL = 2.94    PITCH = -7.60    
+
+ROLL = 2.89    PITCH = -7.61    
+
+ROLL = 2.87    PITCH = -7.62    
+
+ROLL = 2.83    PITCH = -7.63    
+
+ROLL = 2.81    PITCH = -7.63    
+
+ROLL = 2.79    PITCH = -7.63    
+
+ROLL = 2.75    PITCH = -7.64    
+
+ROLL = 2.73    PITCH = -7.65    
+
+ROLL = 2.70    PITCH = -7.65    
+
+ROLL = 2.69    PITCH = -7.65    
+
+ROLL = 2.66    PITCH = -7.66    
+
+ROLL = 2.65    PITCH = -7.66    
+
+ROLL = 2.63    PITCH = -7.67    
+
+ROLL = 2.62    PITCH = -7.67    
+
+ROLL = 2.61    PITCH = -7.67    
+
+ROLL = 2.60    PITCH = -7.68    
+
+ROLL = 2.60    PITCH = -7.69    
+
+ROLL = 2.60    PITCH = -7.69    
+
+ROLL = 2.59    PITCH = -7.71    
+
+ROLL = 2.59    PITCH = -7.71    
+
+ROLL = 2.58    PITCH = -7.73    
+
+ROLL = 2.58    PITCH = -7.74    
+
+ROLL = 2.57    PITCH = -7.76    
+
+ROLL = 2.56    PITCH = -7.78    
+
+ROLL = 2.56    PITCH = -7.79    
+
+ROLL = 2.56    PITCH = -7.82    
+
+ROLL = 2.56    PITCH = -7.84    
+
+ROLL = 2.55    PITCH = -7.88    
+
+ROLL = 2.55    PITCH = -7.90    
+
+ROLL = 2.55    PITCH = -7.94    
