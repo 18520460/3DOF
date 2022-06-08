@@ -1,16 +1,13 @@
-// 6/8/2022 AnhNguyen 
-
-
-module uabsdahblds01
+module test_top
 #(
-	parameter	ADR_WIDTH	32,
-	parameter	SDAT_WIDTH	64,
-	parameter	MDAT_WIDTH	32,
-	parameter	PRT_WIDTH	4,
-	parameter	MTR_WIDTH	1,
-	parameter	SBA_WIDTH	1,
-	parameter	SBW_WIDTH	1,
-	parameter	SBR_WIDTH	1
+	parameter	ADR_WIDTH    = 32,
+	parameter	SDAT_WIDTH   = 64,
+	parameter	MDAT_WIDTH	 = 32,
+	parameter	PRT_WIDTH    = 4,
+	parameter	MTR_WIDTH	 = 1,
+	parameter	SBA_WIDTH	 = 1,
+	parameter	SBW_WIDTH	 = 1,
+	parameter	SBR_WIDTH	 = 1
 )
 (
 	input	HCLK,
@@ -36,23 +33,23 @@ module uabsdahblds01
 	input						M_HREADY,
 	input						M_HRESP
 );
-	localparam	BYTE		3'b000;
-	localparam	HALFWORD	3'b001;
-	localparam	WORD		3'b010;
-	localparam	DOUBLEWORD	3'b011;
-	localparam	IDLE		2'b00;
-	localparam	BUSY		2'b01;
-	localparam	NONSEQ		2'b10;
-	localparam	SEQ			2'b11;
-	localparam	SINGLE		3'b000;
-	localparam	INCR4		3'b011;
-	localparam	INCR8		3'b101;
+	localparam	BYTE		= 3'b000;
+	localparam	HALFWORD	= 3'b001;
+	localparam	WORD		= 3'b010;
+	localparam	DOUBLEWORD	= 3'b011;
+	localparam	IDLE		= 2'b00;
+	localparam	BUSY		= 2'b01;
+	localparam	NONSEQ		= 2'b10;
+	localparam	SEQ			= 2'b11;
+	localparam	SINGLE		= 3'b000;
+	localparam	INCR4		= 3'b011;
+	localparam	INCR8		= 3'b101;
 	
 	
 	
 	//isx_wait control signal FSM
-	localparam 	OK			1'b1;
-	localparam	WAIT		1'b0;
+	localparam 	OK			= 1'b1;
+	localparam	WAIT		= 1'b0;
 	
 	reg is_wait;
 	always @(posedge HCLK) begin
@@ -89,7 +86,7 @@ module uabsdahblds01
 			next_S_HTRANS	<=	(S_HTRANS == NONSEQ && S_HBURST == SINGLE)	? NONSEQ:
 								(S_HTRANS == NONSEQ && S_HBURST == INCR4)	? SEQ	: NONSEQ;
 			next_S_HBURST	<=	(S_HSIZE == DOUBLEWORD && S_HBURST == INCR4) ? INCR8 : S_HBURST;
-			next_S_HSIZE	<= 	(S_HSIZE == DOUBLEWORD) WORD : S_HSIZE;
+			next_S_HSIZE	<= 	(S_HSIZE == DOUBLEWORD) ? WORD : S_HSIZE;
 			next_S_HADDR	<= S_HADDR + 32'd4;
 		end
 	end
@@ -143,7 +140,7 @@ module uabsdahblds01
 			prev_M_HSIZE <= M_HSIZE;
 			prev_S_HADDR <= S_HADDR[2:0];
 			prev_M_HADDR <= M_HADDR[2:0];
-			rdata_buf	 <= rdata_bus[31:0]
+			rdata_buf	 <= rdata_bus[31:0];
 		end
 	end
 	assign	wdata_lane_crl = 	(prev_S_HSIZE == DOUBLEWORD && !S_HREADY) ? 0 :
