@@ -65,7 +65,7 @@ module uabsdahblds01
 	localparam 	OK			= 1'b1;
 	localparam	WAIT		= 1'b0;
 	
-	reg is_wait;
+	logic is_wait;
 	always @(posedge HCLK `AMBAssador_AsyncRst) begin
 		if(!HRESET_N) 
 			is_wait <= OK; 
@@ -76,12 +76,12 @@ module uabsdahblds01
 			endcase
 		end
 	end		
-	//1.6.2 brust conversion
-	reg 				  prev_S_HWRITE;
-	reg 			[1:0] next_S_HTRANS;
-	reg 			[2:0] next_S_HBURST;
-	reg 			[2:0] next_S_HSIZE;
-	reg [ADR_WIDTH - 1:0] next_S_HADDR;
+	//DS 1.6.2 brust conversion
+	logic 				  prev_S_HWRITE;
+	logic 			[1:0] next_S_HTRANS;
+	logic 			[2:0] next_S_HBURST;
+	logic 			[2:0] next_S_HSIZE;
+	logic [ADR_WIDTH - 1:0] next_S_HADDR;
 	always @(posedge HCLK `AMBAssador_AsyncRst) begin
 		if(HRESET_N) begin
 			prev_S_HWRITE	<= 0;
@@ -93,7 +93,7 @@ module uabsdahblds01
 		else if(S_HREADY) begin
 			prev_S_HWRITE 	<= 	S_HWRITE;
 			next_S_HTRANS	<=	(S_HTRANS == NONSEQ && S_HBURST == SINGLE)	? NONSEQ:
-								(S_HTRANS == NONSEQ && S_HBURST == INCR4)	? SEQ	: NONSEQ;
+								(S_HTRANS == NONSEQ && S_HBURST == INCR4)	? SEQ	: S_HTRANS;
 			next_S_HBURST	<=	(S_HSIZE == DOUBLEWORD && S_HBURST == INCR4) ? INCR8 : S_HBURST;
 			next_S_HSIZE	<= 	(S_HSIZE == DOUBLEWORD) ? WORD : S_HSIZE;
 			next_S_HADDR	<= S_HADDR + 32'd4;
@@ -104,13 +104,15 @@ module uabsdahblds01
 	assign M_HADDR  = (!S_HREADY && M_HREADY) ? next_S_HADDR  : S_HADDR;
 	assign M_HBURST	= (!S_HREADY && M_HREADY) ? next_S_HBURST : (S_HSIZE == DOUBLEWORD && S_HBURST == INCR4) ? INCR8 : S_HBURST;
 	assign M_HSIZE	= (!S_HREADY && M_HREADY) ? next_S_HSIZE  :	(S_HSIZE == DOUBLEWORD) ? WORD : S_HSIZE;
-	//1.6.3 response signal control
-	reg	error_1st;
-	reg error_2nd;
+	//DS 1.6.3 response signal control
+	logic	error_1st;
+	logic error_2nd;
+	logic is_bypass;
 	always @(posedge HCLK `AMBAssador_AsyncRst) begin
 		if(!HRESET_N) begin
 			error_1st <= 1'b0;
 			error_2nd <= 1'b0;
+			is_bypass <= 1'b0;
 		end 
 		else begin
 			if(!M_HREADY && M_HRESP)
@@ -121,21 +123,25 @@ module uabsdahblds01
 				error_2nd <= 1'b1;
 			else
 				error_2nd <= 1'b0;
+			if(!is_wait && error_1st)
+				is_bypass <= 1'b1;
+			else
+				is_bypass <= 1'b0;
 		end		
 	end
-	assign S_HREADY =	(is_wait) ? (M_HREADY && is_wait) : !error_1st;
-	assign S_HRESP	=	(is_wait) ? M_HRESP               : (error_1st || error_2nd);	
+	assign S_HREADY =	(is_wait && M_HREADY);
+	assign S_HRESP  = 	(is_bypass) ? error_2nd : (is_wait) ? M_HRESP : error_1st;
 	
 	
-	//1.6.1 data bus control
-	wire 					wdata_lane_crl;
-	wire 					rdata_lane_crl;
-	wire [SDAT_WIDTH - 1:0]	rdata_bus;
-	reg  [MDAT_WIDTH - 1:0] rdata_buf;
-	reg				  [2:0] prev_S_HSIZE;
-	reg	              [2:0] prev_M_HSIZE;
-	reg 			  [2:0] prev_S_HADDR;
-	reg 			  [2:0] prev_M_HADDR;
+	//DS 1.6.1 data bus control
+	logic 					wdata_lane_crl;
+	logic 					rdata_lane_crl;
+	logic [SDAT_WIDTH - 1:0]	rdata_bus;
+	logic  [MDAT_WIDTH - 1:0] rdata_buf;
+	logic				  [2:0] prev_S_HSIZE;
+	logic	              [2:0] prev_M_HSIZE;
+	logic 			  [2:0] prev_S_HADDR;
+	logic 			  [2:0] prev_M_HADDR;
 
 	always @(posedge HCLK `AMBAssador_AsyncRst) begin
 		if(!HRESET_N) begin
@@ -146,10 +152,14 @@ module uabsdahblds01
 			rdata_buf 	 <= 32'd0;
 		end
 		else begin
-			prev_S_HSIZE <= S_HSIZE;
-			prev_M_HSIZE <= M_HSIZE;
-			prev_S_HADDR <= S_HADDR[2:0];
-			prev_M_HADDR <= M_HADDR[2:0];
+			if(S_HREADY) begin
+				prev_S_HSIZE <= S_HSIZE;
+				prev_S_HADDR <= S_HADDR[2:0];
+			end
+			if(M_HREADY) begin
+				prev_M_HSIZE <= M_HSIZE;
+				prev_M_HADDR <= M_HADDR[2:0];
+			end
 			rdata_buf	 <= rdata_bus[31:0];
 		end
 	end
@@ -185,7 +195,7 @@ module uabsdahblds01
 								(prev_M_HSIZE == BYTE && prev_M_HADDR == 3'd7) ? 1 : 0;
 	assign  rdata_bus = (rdata_lane_crl) ? {M_HRDATA, 32'd0} : {32'd0, M_HRDATA};
 	assign  S_HRDATA = (prev_S_HSIZE == DOUBLEWORD && S_HREADY) ? {rdata_bus[63:32], rdata_buf} : rdata_bus;
-	assign	M_HWDATA = wdata_lane_crl ? S_HWDATA[0*8+:32] : S_HWDATA[0*8+:32];
+	assign	M_HWDATA = wdata_lane_crl ? S_HWDATA[4*8+:32] : S_HWDATA[0*8+:32];
 endmodule
 
 `undef AMBAssador_AsyncRst
