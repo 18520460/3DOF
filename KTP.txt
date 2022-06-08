@@ -1,37 +1,54 @@
-module test_top
+// *********************************************************************************
+//  (C) 2022 RENESAS ELECTRONICS CORPORATION, ALL RIGHTS RESERVED
+// *********************************************************************************
+//   Module      : uabsdahblds01
+//   Revision    : $Rev: 1.0$
+//   Date        : $Date: 2022-06-09$
+//   Author      : $Author: AnhNguyen$
+// ---------------------------------------------------------------------------------
+//   Description : AHBL Data Bus Width Conversion (Downsizer) Bridge
+// *********************************************************************************
+
+`ifdef AMBAssador_SyncRst
+  `define AMBAssador_AsyncRst
+`else
+  `define AMBAssador_AsyncRst  or negedge HRESET_N
+`endif
+
+module uabsdahblds01
 #(
-	parameter	ADR_WIDTH    = 32,
-	parameter	SDAT_WIDTH   = 64,
-	parameter	MDAT_WIDTH	 = 32,
-	parameter	PRT_WIDTH    = 4,
-	parameter	MTR_WIDTH	 = 1,
-	parameter	SBA_WIDTH	 = 1,
-	parameter	SBW_WIDTH	 = 1,
-	parameter	SBR_WIDTH	 = 1
+	 ADR_WIDTH   	= 32
+	,SDAT_WIDTH   	= 64
+	,MDAT_WIDTH	  	= 32
+	,PRT_WIDTH    	= 4
+	,MTR_WIDTH	 	= 1
+	,SBA_WIDTH	 	= 1
+	,SBW_WIDTH	 	= 1
+	,SBR_WIDTH	 	= 1
 )
 (
-	input	HCLK,
-	input	HRESET_N,
+	 input						HCLK
+	,input						HRESET_N
 	//master side
-	input						S_HWRITE,
-	input	[2:0]				S_HBURST,
-	input	[1:0]				S_HTRANS,
-	input	[2:0]				S_HSIZE,
-	input	[ADR_WIDTH - 1:0]	S_HADDR,
-	input	[SDAT_WIDTH - 1:0]	S_HWDATA,
-	output	[SDAT_WIDTH - 1:0]	S_HRDATA,
-	output						S_HREADY,
-	output						S_HRESP,
+	,input						S_HWRITE
+	,input				  [2:0] S_HBURST
+	,input				  [1:0] S_HTRANS
+	,input				  [2:0] S_HSIZE
+	,input	  [ADR_WIDTH - 1:0] S_HADDR
+	,input	 [SDAT_WIDTH - 1:0] S_HWDATA
+	,output	 [SDAT_WIDTH - 1:0] S_HRDATA
+	,output						S_HREADY
+	,output						S_HRESP
 	//slave side
-	output						M_HWRITE,
-	output	[2:0]				M_HBURST,
-	output	[1:0]				M_HTRANS,
-	output	[2:0]				M_HSIZE,
-	output	[ADR_WIDTH - 1:0]	M_HADDR,
-	output	[MDAT_WIDTH:0]		M_HWDATA,
-	input	[MDAT_WIDTH:0]		M_HRDATA,
-	input						M_HREADY,
-	input						M_HRESP
+	,output						M_HWRITE
+	,output				  [2:0] M_HBURST
+	,output				  [1:0] M_HTRANS
+	,output				  [2:0] M_HSIZE
+	,output	  [ADR_WIDTH - 1:0] M_HADDR
+	,output	     [MDAT_WIDTH:0] M_HWDATA
+	,input	     [MDAT_WIDTH:0] M_HRDATA
+	,input						M_HREADY
+	,input						M_HRESP
 );
 	localparam	BYTE		= 3'b000;
 	localparam	HALFWORD	= 3'b001;
@@ -43,17 +60,14 @@ module test_top
 	localparam	SEQ			= 2'b11;
 	localparam	SINGLE		= 3'b000;
 	localparam	INCR4		= 3'b011;
-	localparam	INCR8		= 3'b101;
-	
-	
-	
-	//isx_wait control signal FSM
+	localparam	INCR8		= 3'b101;	
+	//is_wait control signal FSM
 	localparam 	OK			= 1'b1;
 	localparam	WAIT		= 1'b0;
 	
 	reg is_wait;
-	always @(posedge HCLK) begin
-		if(HRESET_N) 
+	always @(posedge HCLK `AMBAssador_AsyncRst) begin
+		if(!HRESET_N) 
 			is_wait <= OK; 
 		else begin
 			case(is_wait)
@@ -61,19 +75,14 @@ module test_top
 				WAIT: if(M_HREADY) is_wait <= OK;
 			endcase
 		end
-	end
-	
-	
-	
-	
-	
+	end		
 	//1.6.2 brust conversion
-	reg 		prev_S_HWRITE;
-	reg [1:0]	next_S_HTRANS;
-	reg [2:0]	next_S_HBURST;
-	reg [2:0]	next_S_HSIZE;
-	reg [31:0]	next_S_HADDR;
-	always @(posedge HCLK) begin
+	reg 				  prev_S_HWRITE;
+	reg 			[1:0] next_S_HTRANS;
+	reg 			[2:0] next_S_HBURST;
+	reg 			[2:0] next_S_HSIZE;
+	reg [ADR_WIDTH - 1:0] next_S_HADDR;
+	always @(posedge HCLK `AMBAssador_AsyncRst) begin
 		if(HRESET_N) begin
 			prev_S_HWRITE	<= 0;
 			next_S_HTRANS 	<= 2'b0;
@@ -98,8 +107,8 @@ module test_top
 	//1.6.3 response signal control
 	reg	error_1st;
 	reg error_2nd;
-	always @(posedge HCLK) begin
-		if(HRESET_N) begin
+	always @(posedge HCLK `AMBAssador_AsyncRst) begin
+		if(!HRESET_N) begin
 			error_1st <= 1'b0;
 			error_2nd <= 1'b0;
 		end 
@@ -115,20 +124,21 @@ module test_top
 		end		
 	end
 	assign S_HREADY =	(is_wait) ? (M_HREADY && is_wait) : !error_1st;
-	assign S_HRESP	=	(is_wait) ? M_HRESP : (error_1st || error_2nd);	
+	assign S_HRESP	=	(is_wait) ? M_HRESP               : (error_1st || error_2nd);	
 	
 	
 	//1.6.1 data bus control
-	wire 	wdata_lane_crl;
-	wire 	rdata_lane_crl;
-	wire [63:0]	rdata_bus;
-	reg	[2:0]	prev_S_HSIZE;
-	reg	[2:0]	prev_M_HSIZE;
-	reg [2:0]	prev_S_HADDR;
-	reg [2:0]	prev_M_HADDR;
-	reg [31:0]	rdata_buf;
-	always @(posedge HCLK) begin
-		if(HRESET_N) begin
+	wire 					wdata_lane_crl;
+	wire 					rdata_lane_crl;
+	wire [SDAT_WIDTH - 1:0]	rdata_bus;
+	reg  [MDAT_WIDTH - 1:0] rdata_buf;
+	reg				  [2:0] prev_S_HSIZE;
+	reg	              [2:0] prev_M_HSIZE;
+	reg 			  [2:0] prev_S_HADDR;
+	reg 			  [2:0] prev_M_HADDR;
+
+	always @(posedge HCLK `AMBAssador_AsyncRst) begin
+		if(!HRESET_N) begin
 			prev_S_HSIZE <= 3'b000;
 			prev_M_HSIZE <= 3'b000;
 			prev_S_HADDR <=	3'b000; 
@@ -177,3 +187,5 @@ module test_top
 	assign  S_HRDATA = (prev_S_HSIZE == DOUBLEWORD && S_HREADY) ? {rdata_bus[63:32], rdata_buf} : rdata_bus;
 	assign	M_HWDATA = wdata_lane_crl ? S_HWDATA[0*8+:32] : S_HWDATA[0*8+:32];
 endmodule
+
+`undef AMBAssador_AsyncRst
